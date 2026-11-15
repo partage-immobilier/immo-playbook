@@ -25,7 +25,7 @@ Constituer son dossier bancaire complet dans un seul PDF et le présenter à deu
 
 ## Livrables
 
-- Cours PDF (24 pages)
+- Cours PDF (25 pages)
 - Check-list des pièces du dossier (PDF)
 - Excel : simulateur de prêt (mensualité, tableau d'amortissement, coût total, comparaison de durées)
 - Mémo : les questions à poser au banquier
