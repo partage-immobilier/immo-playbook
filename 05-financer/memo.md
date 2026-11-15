@@ -31,6 +31,6 @@
 | Jusqu'à quel encours pouvez-vous me suivre ? | Quand ouvrir une SCI dans une autre banque |
 | Qu'est-ce qui ferait refuser ce dossier ? | Ce que je dois corriger avant le comité |
 
-**Ce que la banque voit** : FICP et FCC (je vérifie mon fichage avant), les crédits de mes SCI dès 25 000 € par banque, mes mandats, les organismes de caution, mes relevés. Je déclare tout, sans raccourci.
+**Ce que la banque voit** : FICP et FCC (je vérifie mon fichage avant), les crédits de mes SCI (Banque de France), mes mandats, les organismes de caution, mes relevés. Je déclare tout, sans raccourci.
 
 Action du module : dossier complet dans un seul PDF, présenté à deux banques.
