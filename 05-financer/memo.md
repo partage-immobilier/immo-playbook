@@ -31,6 +31,6 @@
 | Jusqu'à quel encours pouvez-vous me suivre ? | Quand ouvrir une SCI dans une autre banque |
 | Qu'est-ce qui ferait refuser ce dossier ? | Ce que je dois corriger avant le comité |
 
-**Ce que la banque voit** : tout passe par la gérance. Mon nom donne toutes mes sociétés, chaque société donne ses crédits. Plus FICP et FCC, organismes de caution, relevés. Je déclare tout, sans raccourci.
+**Ce que la banque voit** : tout passe par la gérance. Dans FIBEN, mon nom donne mes sociétés, chaque société donne ses crédits. L'organisme de caution voit les doublettes. Je déclare tout.
 
 Action du module : dossier complet dans un seul PDF, présenté à deux banques.
