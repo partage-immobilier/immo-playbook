@@ -100,7 +100,7 @@ Vous pouvez conditionner l'achat à la vente préalable de votre propre bien. Du
 
 | Condition | Ce qu'elle couvre | Pièce qui la réalise ou la fait tomber |
 |---|---|---|
-| Bien loué : loyers à jour, bail conforme | Un locataire en impayé ou un bail non valable | Attestation du vendeur, trois dernières quittances, copie du bail |
+| Bien loué : loyers à jour, bail conforme | Un locataire en impayé ou un bail non valable | Déclaration du vendeur au compromis (montant et date du dernier loyer reçu de chaque locataire), compte rendu de gérance ou relevé des encaissements, trois dernières quittances, copie du bail |
 | Bien loué : dépôt de garantie transmis | Vous devrez le rendre au locataire à son départ | Mention dans l'acte, déduit du prix |
 | Copropriété : absence de procédure et de travaux votés non payés | Un ravalement voté à 15 000 € par lot que vous découvririez après | Pré-état daté, PV des trois dernières AG |
 | Assainissement : conformité ou chiffrage de la mise en conformité | Une fosse non conforme, un an pour la refaire, 8 000 à 15 000 € | Rapport du SPANC de moins de trois ans |

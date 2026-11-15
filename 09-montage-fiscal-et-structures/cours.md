@@ -427,6 +427,21 @@ Mehdi a loué un meublé quatre ans sans rien déclarer, 9 000 € par an. Activ
 
 Les contrôles sont ciblés par croisement de fichiers. Les signaux fréquents en immobilier : une **incohérence entre déclarations** (loyers déclarés par le locataire pour une aide au logement et absents chez le bailleur, déclaration d'occupation contredite par un bail, revenus transmis par les plateformes de location depuis 2020) ; une **SCI sans comptabilité ni assemblées** ; un **meublé déclaré en revenus fonciers** ou l'inverse ; des **déficits fonciers répétés** sans factures ; une **plus-value** sous-estimée par rapport aux bases de ventes. Le meilleur bouclier : déclarer dans la bonne catégorie, garder toutes les factures, poser un rescrit quand le doute porte sur une somme importante.
 
+### 8.4 Faire passer dans sa SCI un bien détenu en nom propre
+
+On ne « bascule » pas un bien dans une société. Vous êtes une personne, la SCI en est une autre : pour que le bien change de propriétaire, il faut une vente ou un apport, par acte notarié. Dans les deux cas, c'est une cession, et elle coûte comme une vente à un tiers.
+
+| Ce que cela déclenche | Détail |
+|---|---|
+| Votre plus-value | Imposée au régime des particuliers (section 8.1), calculée sur la valeur réelle du bien au jour de la cession, même si aucun argent ne sort du cercle familial |
+| Les droits et frais d'acte | Pour une vente, les mêmes que pour n'importe quel acheteur, autour de 7 à 8 % dans l'ancien. Pour un apport, le régime dépend de la société et de la reprise du prêt : un apport avec reprise de passif est taxé comme une vente pour la part de dette reprise (à faire chiffrer par le notaire) |
+| Le prêt | Il ne suit pas le bien. Il faut le rembourser, ou obtenir l'accord écrit de la banque pour le transférer, ce qui revient à une nouvelle demande : nouveau taux, nouvelle garantie |
+| Le regard de l'administration | Un prix écarté de la valeur de marché, dans un sens ou dans l'autre, expose à un redressement (insuffisance de prix, ou abus de droit si l'opération n'a qu'un but fiscal, section 4.5) |
+
+Exemple. Nadia a acheté un T3 150 000 € en 2018, en nom propre. Il vaut 220 000 € en 2026 et elle veut le « mettre » dans sa SCI à l'IS. Plus-value : 220 000 − (150 000 + 11 250 de forfait frais + 22 500 de forfait travaux) = 36 250 €. Après huit ans de détention, l'abattement est de 18 % pour l'impôt et de 4,95 % pour les prélèvements sociaux : 5 648 € d'impôt et 5 926 € de prélèvements. La SCI paie environ 16 500 € de frais d'acte. Total : près de **28 000 €**, plus le coût du nouveau prêt, pour un bien qu'elle possédait déjà.
+
+L'opération a parfois un sens, quand elle sert à dégager de la trésorerie : la SCI emprunte pour vous payer le prix, et vous récupérez le capital que vous aviez remboursé. Elle se compare alors à un prêt hypothécaire sur le même bien (module 5, chapitre 11), qui donne le même résultat sans plus-value ni droits. Dans tous les autres cas, la règle est simple : ce qui est en nom propre y reste, et les achats suivants se font dans la société.
+
 ## Les pièges et idées reçues du module
 
 1. **Le micro, par simplicité.** Avec un crédit, le réel gagne presque toujours, en nue comme en meublé. Le calcul prend dix minutes.
@@ -437,6 +452,7 @@ Les contrôles sont ciblés par croisement de fichiers. Les signaux fréquents e
 6. **La holding dès le premier bien.** Elle coûte plus qu'elle ne rapporte tant qu'il n'y a pas plusieurs sociétés et du cash à faire circuler.
 7. **Vendre les parts pour « éviter les frais de notaire ».** Les droits tombent à 5 %, mais l'acheteur reprend tout le passé de la société et la banque suit rarement.
 8. **La SCI qui dort.** Pas de comptes, pas d'assemblées, loyers sur le compte personnel : c'est une SCI fictive aux yeux du fisc, et un redressement à 80 %.
+9. **« Basculer » son bien dans sa SCI.** C'est une vente : plus-value, frais d'acte, prêt à refaire. Les prochains achats dans la société, pas les anciens.
 
 ## Pour aller plus loin
 

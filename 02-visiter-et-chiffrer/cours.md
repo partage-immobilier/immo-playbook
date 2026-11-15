@@ -32,7 +32,7 @@ Depuis le premier appel, demandez ces pièces. L'agent ou le vendeur ne les a pa
 | Règlement de copropriété | Ce qui est interdit (location courte durée, activité, division) | Le vendeur, le notaire du vendeur |
 | Carnet d'entretien et, s'il existe, le plan pluriannuel de travaux | Toiture, ascenseur, ravalement : quand ont-ils été faits, quand sont-ils prévus | Le syndic |
 | Montant du fonds de travaux (obligatoire depuis la loi ALUR, cotisation d'au moins 5 % du budget) | Ce qui a déjà été provisionné pour les gros travaux, que vous récupérerez indirectement | Le syndic |
-| Si le bien est loué : bail, état des lieux d'entrée, dépôt de garantie, trois dernières quittances | Le loyer réel, la date de fin, les impayés, l'état du logement à l'entrée du locataire | Le vendeur |
+| Si le bien est loué : bail, état des lieux d'entrée, dépôt de garantie, trois dernières quittances, et une preuve que les loyers sont encaissés (compte rendu de gérance ou relevé des encaissements) | Le loyer réel, la date de fin, les impayés, l'état du logement à l'entrée du locataire | Le vendeur, son gestionnaire |
 | Factures des travaux réalisés | Ce qui a été fait, par qui, et si l'assurance décennale existe | Le vendeur |
 | Plans, surface habitable mesurée | La surface qui fixe le loyer, pas celle de l'annonce | Le vendeur, le diagnostiqueur |
 | Pour une maison : titre de propriété ou extrait, plan cadastral | Servitudes (passage, vue), limites de propriété, mitoyenneté | Le notaire du vendeur, cadastre.gouv.fr |
@@ -85,6 +85,8 @@ Dix minutes autour du bien avant d'entrer : état des façades et des toitures v
 ### 2.4 Si le bien est loué
 
 Demandez à parler au locataire, deux minutes, sans l'agent si possible : depuis combien de temps il est là, comment se passent les réparations, s'il compte rester. Un locataire en place est une information sur le propriétaire autant que sur le logement.
+
+**Une quittance ne prouve pas qu'un loyer a été payé.** C'est un document que le vendeur rédige lui-même. Un immeuble annoncé « entièrement loué » peut abriter un locataire qui ne paie plus depuis un an. Demandez une trace des encaissements : le compte rendu de gérance si une agence gère le bien, sinon un relevé des loyers reçus sur les douze derniers mois. Le vendeur n'est pas obligé de vous montrer ses relevés bancaires. S'il refuse toute preuve, faites écrire au compromis qu'il déclare les loyers à jour à la date de l'acte, avec le montant et la date du dernier paiement de chaque locataire (module 4), et tenez-en compte dans votre prix.
 
 ### 2.5 Exemple : Mehdi visite son T3
 
@@ -201,6 +203,8 @@ Faites venir un artisan dès que :
 - le vendeur a accepté votre offre et vous êtes entre l'offre et le compromis : c'est le moment des devis, avant de signer.
 
 Faites venir deux artisans pour les gros postes. Les écarts de 30 % entre deux devis sont courants.
+
+**Sur un immeuble ancien à risque, faites passer un ingénieur structure avant le compromis.** Les signaux : pans de bois, fissure traversante ou en escalier, plancher qui penche, dégât des eaux ancien, mur porteur à ouvrir, ville connue pour son bâti fragile. Un artisan chiffre des travaux, il ne dit pas si l'immeuble tient. Un bureau d'études structure se déplace, sonde et rend un rapport écrit, pour un coût qui reste en général sous 1 % du prix (demandez un devis, les tarifs varient beaucoup). C'est une étude, donc elle se paie, et elle se fait entre l'offre acceptée et le compromis. Assistez à la visite : vous apprendrez à regarder un bâtiment. Le rapport sert trois fois : pour décider, pour renégocier si une reprise est nécessaire, et dans votre dossier bancaire, où il rassure sur le budget travaux. Une façade à reprendre ou un plancher à refaire peuvent multiplier un budget par cinq ou dix, et se découvrent rarement à l'œil.
 
 ### 4.5 Exemple : Mehdi chiffre son T3
 

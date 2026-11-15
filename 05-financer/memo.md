@@ -11,7 +11,7 @@
 
 **Pour enchaîner** : SCI, hypothèque sur le bien financé (à demander, la banque ne la propose pas), une SCI par banque et plusieurs immeubles par SCI, deux caisses régionales = deux banques, pas de holding sans bilans ni trésorerie, pas de courtier, tous mes engagements déclarés à chaque banque. J'apporte des produits au banquier (domiciliation, assurances, épargne) et je les garde tant que j'emprunte chez lui.
 
-**Mon dossier** : un seul PDF, dossier de financement en tête, 9 pochettes, trois mois de relevés sans découvert ni jeux ni crypto, loyers déclarés, apport visible, note de présentation en première page.
+**Mon dossier** : un seul PDF, dossier de financement en tête, 9 pochettes, trois mois de relevés sans découvert ni jeux ni crypto, loyers déclarés, apport visible, scénario prudent.
 
 **Ce que je négocie, dans l'ordre** : durée, différé, exonération d'IRA, modulation et report, financement des frais et travaux, frais de dossier, puis le taux.
 
@@ -31,6 +31,6 @@
 | Jusqu'à quel encours pouvez-vous me suivre ? | Quand ouvrir une SCI dans une autre banque |
 | Qu'est-ce qui ferait refuser ce dossier ? | Ce que je dois corriger avant le comité |
 
-**Ce que la banque voit** : FICP et FCC (incidents seulement), bases des organismes de caution, mes relevés, mes avis d'imposition, les statuts des SCI au greffe. Pas de fichier positif. Je déclare tout.
+**Ce que la banque voit** : FICP et FCC (je vérifie mon fichage avant), les crédits de mes SCI dès 25 000 € par banque, mes mandats, les organismes de caution, mes relevés. Je déclare tout, sans raccourci.
 
 Action du module : dossier complet dans un seul PDF, présenté à deux banques.

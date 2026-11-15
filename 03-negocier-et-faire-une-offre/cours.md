@@ -187,7 +187,7 @@ Le vendeur accepte en signant l'offre avec la mention « bon pour accord » ou p
 
 1. Vous envoyez l'offre acceptée et les coordonnées des deux notaires.
 2. Vous lancez vos demandes de prêt auprès de deux ou trois banques (module 5), sans attendre le compromis : les délais de la condition suspensive courent à partir du compromis, mais la banque met des semaines.
-3. Vous faites venir les artisans pour les devis définitifs, si ce n'est pas déjà fait.
+3. Vous faites venir les artisans pour les devis définitifs, si ce n'est pas déjà fait. Sur un immeuble ancien avec un doute de structure, c'est aussi le moment de l'ingénieur structure (module 2, chapitre 4) : annoncez-le dans votre offre (« sous réserve d'une visite d'un bureau d'études structure avant la signature du compromis ») pour que le vendeur donne l'accès, et faites rédiger par le notaire toute condition qui en dépendrait au compromis.
 4. Vous préparez la création de la SCI si vous vous substituez (statuts, compte bancaire, dépôt du capital, immatriculation), pour qu'elle existe avant l'acte.
 
 Si le vendeur se rétracte après avoir accepté, vous pouvez en théorie demander l'exécution forcée de la vente. En pratique, c'est long et incertain : gardez l'écrit, consultez votre notaire, et continuez à chercher.

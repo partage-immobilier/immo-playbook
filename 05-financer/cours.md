@@ -11,6 +11,7 @@
 - Lire un refus, rebondir, et savoir emprunter en SCI, en indépendant, ou sans banque.
 - Construire le profil que les banques financent (résidence principale, salaire, épargne) et enchaîner les opérations : SCI, hypothèque, une SCI par banque.
 - Savoir ce que les banques voient de vous, et ce qu'elles ne voient pas.
+- Reconnaître les raccourcis que l'on vous conseillera (cacher un compte, taire un prêt, arranger une pièce) et savoir ce qu'ils coûtent.
 
 Action à réaliser avant le module suivant : constituer votre dossier bancaire complet dans un seul PDF et le présenter à deux banques.
 
@@ -59,6 +60,8 @@ Un client qui ne prend que le prêt, avec la carte gratuite et toutes les assura
 
 Trois règles. Ne promettez que ce que vous tiendrez : une domiciliation annoncée et jamais faite se paie au dossier suivant. Ne résiliez pas les produits de la banque le lendemain du déblocage si vous comptez lui demander un deuxième prêt : gardez-les tant que vous empruntez chez elle, et faites vos arbitrages (délégation d'assurance, chapitre 6) une fois que vous avez atteint le plafond qu'elle vous accorde. Et refusez ce qui est disproportionné : un placement bloqué qui vous prive de votre trésorerie de sécurité n'est pas une contrepartie, c'est un apport déguisé.
 
+**Vous n'avez qu'un salaire à domicilier.** Dès que vous travaillez avec deux banques, chacune vous demandera la domiciliation de vos revenus, et le conseiller vous proposera le service de mobilité bancaire, qui transfère tout en quelques jours. Ne promettez pas à la seconde ce que vous avez déjà donné à la première. Dites-le au premier rendez-vous et proposez ce que vous pouvez tenir : un compte personnel ouvert chez elle et alimenté chaque mois par un virement permanent d'épargne, les loyers et le compte de la SCI qu'elle finance, l'assurance de l'immeuble, l'assurance emprunteur, un placement. Un banquier préfère une contrepartie modeste et tenue à une domiciliation annoncée puis repoussée de mois en mois.
+
 ### 1.2 Le profil que la banque préfère, et l'ordre dans lequel le construire
 
 La banque raisonne en statistiques. Elle ne cherche pas le client qui gagne le plus, elle cherche celui qui a le moins de chances de cesser de payer. Ce profil tient en quatre lignes, et il se construit dans cet ordre.
@@ -71,6 +74,8 @@ La banque raisonne en statistiques. Elle ne cherche pas le client qui gagne le p
 | 4. Une épargne longue, en plus de l'épargne disponible | Une épargne qui ne sera pas dépensée demain : PEA, assurance-vie, épargne salariale | Elle figure au patrimoine du dossier, et vous n'avez pas à la vider pour l'apport |
 
 Ensuite seulement, vous empruntez pour investir. Un locataire en période d'essai, sans épargne, avec un excellent projet, sera refusé. Un propriétaire en CDI qui épargne 300 € par mois, avec un projet moyen, sera financé. Ce n'est pas juste, c'est statistique.
+
+**La banque lit ce qu'il vous reste, pas ce que vous gagnez.** Un emprunteur qui gagne 5 000 € et en met 1 500 de côté chaque mois rassure plus qu'un autre qui gagne 10 000 € et finit le mois à zéro. Le banquier fait un test simple, qu'il ne vous dira pas : si le bien restait vide, ce qui reste chaque mois sur vos relevés couvrirait-il la mensualité ? La régularité compte autant que le niveau : des dépenses en dents de scie inquiètent plus que des dépenses élevées mais stables. La seule façon d'améliorer ce chiffre est de dépenser moins, réellement, pendant les six à douze mois qui précèdent le dépôt du dossier.
 
 Deux remarques sur la résidence principale. Sa mensualité compte dans votre taux d'effort, comme le loyer qu'elle remplace : elle ne vous enlève donc pas de capacité si elle est du même ordre. Et pour elle, la caution d'un organisme convient très bien (chapitre 7) : gardez l'hypothèque pour vos investissements.
 
@@ -85,6 +90,8 @@ Le banquier instruit une centaine de dossiers par an. Celui qui arrive complet, 
 ### 2.1 Les pièces, dans l'ordre
 
 Un seul fichier PDF, avec un sommaire, dans l'ordre où le conseiller saisit son logiciel. La check-list complète est dans les outils du module ; voici la structure. Pour la première pochette, deux modèles sont fournis : la note de présentation en deux pages, et le dossier de financement en dix diapositives (`outils/dossier_bancaire.pptx` : projet, demande de prêt, emprunteurs, patrimoine, structure, revenus et charges, ce que vous proposez à la banque, pièces). Remplissez-le, exportez-le en PDF et placez-le en tête. Pour une SCI ou un immeuble, prenez le dossier en diapositives : c'est le format que lit un comité.
+
+Dans la note comme dans le dossier, présentez votre scénario prudent, pas le meilleur : loyer du bas de la fourchette, un mois de vacance par an, et la ligne « mensualité couverte à X % par le loyer ». Si le projet repose sur la colocation ou la location de courte durée, ajoutez une ligne « en location classique » qui montre que la mensualité reste payée. Écrivez que c'est votre hypothèse basse. Un rendement très supérieur à la normale n'impressionne pas un comité : il se demande ce qui cloche (emplacement, mode d'exploitation fragile, calcul faux).
 
 | Pochette | Contenu (pour chaque emprunteur et chaque caution) |
 |---|---|
@@ -102,10 +109,13 @@ Un seul fichier PDF, avec un sommaire, dans l'ordre où le conseiller saisit son
 
 - **Un découvert ou un rejet de prélèvement dans les trois derniers mois.** C'est le premier motif de refus des dossiers de salariés. Préparez vos comptes trois mois avant, pas trois jours.
 - **Des jeux en ligne, des virements vers des plateformes de crypto-actifs, des crédits renouvelables.** Même avec de bons revenus, le comité lit « gestion à risque ». Si vous y tenez, faites-le depuis un compte séparé alimenté une fois par mois, et répondez honnêtement si on vous pose la question.
+- **Une saisie sur le compte, des amendes à répétition, de gros retraits d'espèces.** Un impôt ou une amende impayés finissent en saisie administrative à tiers détenteur, visible sur le relevé avec les frais de la banque. Soldez amendes et litiges fiscaux avant les trois mois de relevés. Des retraits d'espèces fréquents ou élevés posent la même question : où va l'argent ?
+- **L'arrivée des fonds d'un crédit à la consommation.** Un crédit souscrit juste avant la demande pèse sur le taux d'effort et laisse penser que l'apport est emprunté.
 - **Des loyers encaissés mais non déclarés.** Ils apparaissent sur les relevés et pas sur l'avis d'imposition. La banque ne peut pas les retenir, et elle a maintenant un doute sur tout le reste.
 - **Des pièces manquantes ou envoyées au compte-gouttes.** Le dossier est mis de côté, puis traité en dernier.
 - **Un projet incohérent.** Un loyer attendu 20 % au-dessus du marché, des travaux chiffrés sans devis, un budget qui oublie la garantie et les frais.
 - **Un apport qui n'apparaît nulle part.** Si vous annoncez 20 000 € d'apport, ils doivent être visibles sur un relevé. Une donation familiale se prouve par un virement et, idéalement, une déclaration de don.
+- **Un fichage que vous ignorez.** Un compte oublié resté débiteur, une carte non restituée, un courrier jamais reçu : cela suffit. Vérifiez avant le premier rendez-vous (chapitre 12).
 - **Mentir.** Une pièce modifiée, un crédit « oublié » : au mieux un refus définitif dans tout le réseau, au pire une plainte pour escroquerie (article 313-1 du Code pénal) et la déchéance du terme de vos autres prêts.
 
 **Exemple.** Nadia, 29 ans, infirmière, 2 350 € nets, 19 000 € d'épargne, veut acheter un studio à 95 000 €. Son dossier est bon, sauf un point : en août, un virement de 400 € vers un site de paris sportifs, et un découvert de 180 € pendant six jours en septembre. Le conseiller lui conseille d'attendre décembre pour redéposer, avec trois mois de relevés propres. Trois mois perdus pour 580 €.
@@ -131,6 +141,8 @@ La « méthode différentielle », qui soustrayait les loyers des mensualités a
 ### 3.2 Le reste à vivre
 
 Le taux d'effort ne suffit pas. La banque vérifie ce qui vous reste pour vivre après toutes les mensualités : revenus réels (sans pondération) moins charges de crédit, loyer et pensions. Chaque banque a ses seuils, non publiés. Ordres de grandeur en 2026 : 800 à 1 200 € par adulte, 300 à 500 € par enfant, davantage en région parisienne. Un couple avec deux enfants qui passe à 34 % d'effort mais garde 1 900 € de reste à vivre sera refusé par certaines banques et accepté par d'autres.
+
+Derrière le reste à vivre, il y a une question que le banquier se pose toujours pour un bien locatif : « et s'il n'y a pas de locataire ? ». Il ne vous demande pas de payer la mensualité indéfiniment sans loyer, il veut voir que quelques mois de vacance ne vous mettent pas en défaut. D'où le poids de l'épargne mensuelle (chapitre 1) et du scénario prudent dans votre dossier (chapitre 2).
 
 ### 3.3 L'exemple complet
 
@@ -183,6 +195,10 @@ Un prêt amortissable à taux fixe, sur la durée la plus longue acceptée, avec
 2. Le différé vous laisse les loyers des premiers mois pour reconstituer votre trésorerie.
 3. Le taux fixe vous protège sur vingt ans, et c'est le seul risque de taux que vous ne pouvez pas gérer.
 
+**Calculez votre autonomie à la sortie du différé.** Pendant le différé, la différence entre les loyers et ce que vous payez forme une réserve. Le jour où l'amortissement commence, la mensualité monte. Faites le calcul avant de signer : réserve constituée, divisée par l'effort mensuel après le différé, égale le nombre de mois pendant lesquels le bien se paie seul. Notez cette date. C'est avant elle qu'il faut avoir agi : loyer revalorisé, charges renégociées, modulation de l'échéance, ou second bien plus rentable dans la même société.
+
+**Exemple.** La SCI de Thomas emprunte 300 000 € sur 25 ans à 3,5 %, avec douze mois de différé partiel, pour un immeuble déjà loué 1 700 € par mois. Pendant le différé, elle paie 875 € d'intérêts, 62 € d'assurance et 350 € de charges (taxe foncière, assurance de l'immeuble, comptable) : il reste 413 € par mois, soit environ 5 000 € au bout d'un an. Ensuite, la mensualité passe à 1 541 € hors assurance : la société dépense 1 953 € pour 1 700 € de loyers, soit 253 € d'effort par mois. Son autonomie est de 5 000 / 253, environ vingt mois. Thomas sait donc, le jour de l'acte, qu'il a un peu moins de trois ans pour remonter les loyers ou acheter un second immeuble qui dégage de la trésorerie.
+
 Le prêt in fine fait rêver parce que la mensualité est minuscule. Chiffrons-le.
 
 **Exemple.** Julien emprunte 200 000 € sur 20 ans. En amortissable à 3,5 %, sa mensualité hors assurance est de 1 160 € et il paie 78 400 € d'intérêts en tout. En in fine à 3,8 % (les banques majorent), il paie 633 € par mois, soit 152 000 € d'intérêts, et il doit reconstituer 200 000 € : en plaçant chaque mois sur une assurance-vie à 2,5 % net, il lui faut 643 € par mois. Total mensuel : 1 276 €, pour un coût d'intérêts double. Les intérêts sont déductibles des loyers dans les deux cas ; à 30 % de tranche d'impôt plus 17,2 % de prélèvements sociaux, la déduction supplémentaire du in fine vaut environ 35 000 € sur vingt ans, loin des 73 600 € d'intérêts en plus. Le in fine n'a de sens que si le placement nanti rapporte nettement plus que le taux du prêt, ou si la plus-value de revente est quasi certaine. Pour un premier investisseur, non.
@@ -223,6 +239,8 @@ Ce que l'apport change : il fait passer le dossier, il baisse le taux (parfois 0
 
 **Exemple.** Mehdi a négocié une exonération d'IRA. Quatre ans plus tard, il revend un bien avec 160 000 € de capital restant dû. Sans la clause, il aurait payé jusqu'à 6 mois d'intérêts à 3,5 %, soit environ 2 800 €, dans la limite de 3 % du capital restant dû (4 800 €). Deux lignes dans un contrat valent 2 800 €.
 
+**En cas de coup dur, parlez avant le premier impayé.** La modulation et le report se demandent tant que vos comptes sont propres : après un incident, la banque n'a plus de raison de vous les accorder, et l'incident peut finir au FICP. Relisez votre offre, car ces clauses ont souvent un délai de carence, un nombre d'utilisations limité et un coût (les échéances reportées allongent le prêt). Si la banque refuse et que la difficulté est sérieuse (licenciement, maladie, séparation), il reste le juge : le juge des contentieux de la protection peut suspendre vos échéances pendant deux ans au plus, et décider que les sommes reportées ne porteront pas intérêt (article L314-20 du Code de la consommation, qui renvoie à l'article 1343-5 du Code civil). Ce délai de grâce se demande avant d'être en défaut, avec les justificatifs de votre situation. Pour le prêt d'une SCI, seul l'article 1343-5 s'applique, devant le tribunal judiciaire : voyez un avocat.
+
 ### 5.4 Renégocier ou faire racheter
 
 Renégocier, c'est demander à sa banque de baisser le taux. Faire racheter, c'est emprunter ailleurs pour rembourser. Dans les deux cas cela coûte : IRA (sauf exonération), nouvelle garantie, frais de dossier, parfois une assurance plus chère parce que vous avez vieilli. Règle d'expérience : l'opération vaut le coup si l'écart dépasse 0,7 à 1 point, dans le premier tiers du prêt, avec plus de 100 000 € de capital restant dû. Comparez le coût total restant, pas le taux.
@@ -232,6 +250,8 @@ Renégocier, c'est demander à sa banque de baisser le taux. Faire racheter, c'e
 Le taux d'usure est le taux annuel effectif global (TAEG) maximal auquel une banque a le droit de prêter. Le TAEG inclut le taux nominal, l'assurance, la garantie et les frais de dossier. Il est calculé chaque trimestre par la Banque de France : la moyenne des TAEG pratiqués le trimestre précédent, augmentée d'un tiers (article L314-6 du Code de la consommation), par catégorie de prêt (moins de 10 ans, 10 à 20 ans, 20 ans et plus). Il est publié au Journal officiel et sur banque-france.fr. Ordre de grandeur fin 2025 : autour de 5 % pour les prêts de 20 ans et plus (niveau de confiance faible, à vérifier le jour de votre demande).
 
 Pourquoi il bloque : quand les taux montent vite, comme en 2022-2023, la moyenne du trimestre précédent est en retard sur le marché, et un dossier avec une assurance chère (emprunteur de plus de 50 ans, risque de santé) dépasse le plafond. La banque ne peut pas prêter, même si elle le voulait. Les leviers : une assurance en délégation moins chère, moins de frais, une quotité réduite sur l'emprunteur le plus âgé, ou attendre le trimestre suivant.
+
+On entend qu'il n'y a « pas de taux d'usure pour une société ». C'est inexact pour la plupart des SCI : la Banque de France publie aussi des seuils pour les prêts aux personnes morales qui n'ont pas d'activité industrielle, commerciale, artisanale, agricole ou professionnelle non commerciale, catégorie dont relève en général une SCI patrimoniale (à vérifier sur banque-france.fr pour votre cas, niveau de confiance moyen).
 
 ## 6. L'assurance emprunteur
 
@@ -282,11 +302,13 @@ La banque veut pouvoir récupérer son argent si vous ne payez plus. Elle prend 
 
 ### Ce qui convient à un investisseur
 
-La caution est moins chère et plus simple pour une résidence principale. Pour un investisseur qui enchaîne, elle a trois inconvénients : l'organisme a ses propres critères, souvent plus stricts que la banque (Crédit Logement refuse en général les SCI à associés non familiaux, CEGC agrège l'exposition de chaque associé sur tout le réseau) ; si vous vendez un lot après division, la caution est « dégradée » et l'organisme peut exiger un remboursement ; et un refus de caution est inscrit dans une base que partagent plusieurs banques (chapitre 12). L'hypothèque légale du prêteur de deniers coûte à peine plus, ne dépend que de la banque, et se lève lot par lot si vous divisez, dès lors que la valeur des lots restants couvre largement le capital restant dû.
+La caution est moins chère et plus simple pour une résidence principale. Pour un investisseur qui enchaîne, elle a trois inconvénients : l'organisme a ses propres critères, souvent plus stricts que la banque (Crédit Logement refuse en général les SCI à associés non familiaux, CEGC agrège l'exposition de chaque associé sur tout le réseau) ; si vous vendez un lot après division, la caution est « dégradée » et l'organisme peut exiger un remboursement ; et un refus de caution est inscrit dans une base que partagent plusieurs banques (chapitre 12). Ce qui fait le plus souvent hésiter un organisme : un local commercial en pied d'immeuble, une part de travaux élevée, des loyers saisonniers importants par rapport au salaire (retours d'expérience, les critères des organismes ne sont pas publics). L'hypothèque légale du prêteur de deniers coûte à peine plus, ne dépend que de la banque, et se lève lot par lot si vous divisez, dès lors que la valeur des lots restants couvre largement le capital restant dû.
+
+Pourquoi la banque préfère la caution : en cas de défaut, c'est l'organisme qui la rembourse puis se retourne contre vous. Elle n'a ni procédure de saisie à mener ni bien à vendre, et la commission reste souvent dans son groupe. Son intérêt n'est donc pas le vôtre sur ce point, et c'est pour cela que l'hypothèque ne vous sera pas proposée.
 
 **Piège classique.** Accepter la caution « parce que c'est ce qu'on fait », puis découvrir au moment de vendre un lot d'un immeuble divisé que l'organisme exige un remboursement partiel, et que la banque suit. Une hypothèque sur le bien financé, et rien d'autre, cloisonne chaque opération et se lève lot par lot, pour quelques centaines d'euros de plus par prêt.
 
-**Idée reçue.** « Un refus de l'organisme de caution est un refus de prêt. » Non. La banque peut prendre une hypothèque à la place. Demandez-le.
+**Idée reçue.** « Un refus de l'organisme de caution est un refus de prêt. » Non. La banque peut prendre une hypothèque à la place. Demandez-le. Mais l'ordre compte : une hypothèque demandée au premier rendez-vous est une préférence d'investisseur, que vous expliquez en une phrase (« je compte diviser », « il y a un commerce au rez-de-chaussée », « je veux cloisonner chaque opération »). Une hypothèque demandée après un refus de caution est un dossier qu'un organisme a déjà jugé risqué, et la banque le sait : elle demande alors plus d'apport, ou ne suit pas. Annoncez votre choix avant que le dossier parte à l'organisme.
 
 ## 8. Courtier ou pas
 
@@ -315,11 +337,13 @@ Un refus de prêt n'est presque jamais motivé par écrit. Il faut demander, et 
 |---|---|---|
 | « Votre taux d'endettement est trop élevé » | Vous dépassez 35 % avec les loyers à 70 % | Refaire le calcul, solder un crédit, allonger, viser moins cher, changer de structure |
 | « Le projet ne correspond pas à notre politique » | La caisse ne fait pas de SCI, pas de meublé, pas de cette ville, pas de troisième bien | Changer de caisse ou de réseau, pas de projet |
-| « L'organisme de caution a refusé » | Profil ou structure hors critères de la caution | Demander une hypothèque à la place |
+| « L'organisme de caution a refusé » | Profil ou structure hors critères de la caution | Demander une hypothèque à la place, en sachant que la banque sera plus exigeante ; la fois suivante, la demander d'emblée (chapitre 7) |
 | « Le comité n'a pas suivi » | Dossier jugé fragile : relevés, reste à vivre, cohérence du loyer | Obtenir le point précis, corriger, représenter dans trois mois |
 | Silence pendant six semaines | Le dossier est en bas de la pile | Relancer une fois par écrit, puis déposer ailleurs |
 
 Deux règles. Ne déposez pas le même dossier dans six banques à la fois : deux, puis deux autres. Et après chaque refus, changez quelque chose : l'interlocuteur, la caisse, la structure, le montant, le différé, la garantie. Représenter le même dossier au même endroit ne sert à rien.
+
+**Tenez un journal de vos rendez-vous.** Les banquiers posent à peu près les mêmes questions, dans le même ordre. Dans l'heure qui suit chaque rendez-vous, notez les questions posées, celles qui vous ont gêné et ce que vous avez répondu. Corrigez votre dossier et votre présentation avant le rendez-vous suivant. Avant le premier, répétez une fois avec un proche qui joue le banquier et à qui vous donnez la liste des objections probables (« pourquoi une SCI ? », « et si le locataire part ? », « pourquoi cette ville ? »). Parlez d'abord de vous, ensuite du bien : au guichet des particuliers, c'est l'emprunteur que la banque finance. N'enregistrez pas le rendez-vous à l'insu du conseiller, comme on le lit parfois : c'est déloyal, juridiquement risqué, et des notes suffisent.
 
 **Ce que je fais, moi.** J'ai essuyé une vingtaine de refus avant d'apprendre à parler banquier. Aucun n'était un refus de capacité. C'étaient des refus de forme (dossier incomplet, mauvais interlocuteur), de périmètre (un associé résidant hors du ressort de la caisse, une structure que la banque ne traitait pas) ou de cohérence (un projet dans une ville que le banquier ne connaissait pas, sans photos ni comparables). Chaque refus m'a appris une règle. La plus importante : demander, calmement, « qu'est-ce qui aurait fait passer ce dossier ? ». La réponse vaut plus que le prêt.
 
@@ -354,7 +378,9 @@ En nom propre, vous l'avez vu au chapitre 3, on s'arrête vite : au deuxième ou
 
 Chaque banque a une limite d'engagement sur vous, qui dépend de votre profil : 500 000 € pour l'un, un million et demi pour l'autre. Elle ne l'écrit nulle part, mais votre conseiller la connaît : demandez-la. Quand elle est atteinte, vous ne forcez pas. Vous ouvrez une nouvelle SCI dans une autre banque et vous recommencez.
 
-**Deux caisses régionales du même réseau sont deux banques.** Vous l'avez vu au chapitre 1 : dans les réseaux mutualistes, chaque caisse régionale a ses fonds propres, son comité et sa politique. Le Crédit Agricole du Languedoc et le Crédit Agricole de Paris et d'Île-de-France portent le même logo, mais ce sont deux banques distinctes. Vous pouvez donc avoir une SCI financée par la première pour vos immeubles de l'Hérault, et une autre SCI financée par la seconde pour vos biens franciliens. La limite atteinte dans l'une ne bloque pas l'autre : chaque caisse décide sur son propre encours, avec son propre comité. Il existe une quarantaine de caisses régionales de Crédit Agricole, une quinzaine de Banques Populaires et autant de Caisses d'Épargne : cela fait beaucoup de banques. Préférez la caisse de la région du bien : elle connaît le marché, et un achat local n'a rien d'étrange pour elle.
+La trésorerie de chaque société décide de son prochain achat. Une SCI qui dégage de l'excédent peut porter un bien plus patrimonial, qui demande un petit effort chaque mois. Une SCI déjà à l'effort doit recevoir un bien de rendement, ou ne rien recevoir : empiler deux biens déficitaires dans la même société, c'est se condamner à la renflouer tous les mois par des apports en compte courant, que la banque verra sur vos relevés.
+
+**Deux caisses régionales du même réseau sont deux banques.** Vous l'avez vu au chapitre 1 : dans les réseaux mutualistes, chaque caisse régionale a ses fonds propres, son comité et sa politique. Le Crédit Agricole du Languedoc et le Crédit Agricole de Paris et d'Île-de-France portent le même logo, mais ce sont deux banques distinctes. Vous pouvez donc avoir une SCI financée par la première pour vos immeubles de l'Hérault, et une autre SCI financée par la seconde pour vos biens franciliens. La limite atteinte dans l'une ne bloque pas l'autre : chaque caisse décide sur son propre encours, avec son propre comité. Il existe une quarantaine de caisses régionales de Crédit Agricole, une quinzaine de Banques Populaires et autant de Caisses d'Épargne : cela fait beaucoup de banques. Préférez la caisse de la région du bien : elle connaît le marché, et un achat local n'a rien d'étrange pour elle. Deux limites à cette indépendance. Les organismes de caution, eux, sont communs à tout un réseau, et parfois à plusieurs (chapitre 12) : c'est une raison de plus de garantir par hypothèque. Et beaucoup de caisses ne financent que les clients qui habitent ou achètent sur leur territoire.
 
 **Exemple.** Sarah, en CDI, propriétaire de sa résidence principale, crée une première SCI avec son frère. La caisse régionale de son département finance un immeuble à 280 000 €, puis un second à 320 000 € dix-huit mois plus tard, dans la même société, chacun garanti par une hypothèque. Au troisième projet, son conseiller lui dit que le comité ne suivra pas avant deux ans. Sarah crée une deuxième SCI et présente son projet suivant, un immeuble dans la région voisine, à la caisse régionale de cette région. Elle y apporte les bilans de la première SCI, qui montrent deux prêts remboursés sans incident, et la liste complète de ses engagements. Accord, avec hypothèque sur le nouvel immeuble.
 
@@ -366,9 +392,26 @@ Un dossier doit se comprendre en dix secondes : deux personnes physiques, une SC
 
 Une demande de prêt portée par une holding ne passe donc pas, sauf dans un cas : la holding a des bilans et de la trésorerie. Une holding qui existe depuis trois exercices, qui encaisse des dividendes ou des prestations et qui a de l'argent sur son compte est un atout : elle peut apporter des fonds, se porter caution, et elle est analysée par un chargé d'affaires entreprises qui lit des bilans tous les jours. Une holding créée le mois dernier, sans compte ni chiffre, n'est qu'une complication.
 
+Il y a une raison juridique derrière ce refus, au-delà du goût de la simplicité. Les associés d'une SCI répondent de ses dettes à proportion de leurs parts (article 1857). Si l'associé à 99 % est une société à responsabilité limitée sans actif, le recours de la banque sur 99 % de la dette ne vaut que le capital de cette société, c'est-à-dire presque rien. La banque demandera votre caution personnelle de toute façon : la holding ne vous a protégé de rien et a compliqué le dossier. Elle n'apporte rien non plus sur le plan fiscal au début : une SCI à l'IS qui amortit ne distribue pas de dividendes les premières années, donc il n'y a rien à faire remonter (module 9, chapitre 7).
+
 L'ordre réaliste : vous commencez simple, avec des SCI détenues en direct. La holding vient plus tard, quand vous passez au financement professionnel (opérations de marchand de biens, module 11) et qu'elle a quelque chose à montrer. Faire entrer une holding au capital d'une SCI déjà financée demande l'accord de la banque : lisez la clause de changement d'associé de votre contrat de prêt avant, et parlez-en à votre conseiller plutôt que de le lui faire découvrir.
 
 **Idée reçue.** « Il faut créer sa holding dès le premier achat pour être structuré. » Pour la banque, structuré veut dire lisible. Créez ce dont vous avez besoin aujourd'hui, et ce que vous pouvez expliquer en une phrase.
+
+### 10.3 S'associer : avec qui, pour quoi, à quel prix
+
+S'associer est le moyen le plus direct d'élargir sa capacité d'emprunt : la banque additionne les revenus et regarde le meilleur profil. Un associé en CDI ancien, propriétaire de sa résidence principale, avec de l'épargne, fait passer une opération que vous n'auriez pas obtenue seul. Si l'opération se finance seul, ne vous associez pas : vous partagez le pouvoir et le résultat sans rien gagner.
+
+| Question | Ce qu'il faut savoir |
+|---|---|
+| Qui la banque regarde-t-elle ? | Tous les associés qui se portent caution, un par un, comme des emprunteurs. Elle lit d'abord l'associé majoritaire. Elle peut poser des conditions au second (un investisseur s'est vu demander que son associé devienne d'abord propriétaire de sa résidence principale) |
+| Que risque l'associé ? | Presque toujours une caution solidaire, souvent sur 100 % du prêt. « Solidaire » veut dire qu'il renonce à exiger que la banque poursuive d'abord la société (bénéfice de discussion) et qu'elle divise sa demande entre les cautions (bénéfice de division) : elle peut lui réclamer la totalité, à lui seul (articles 2305 et 2306 du Code civil). Dites-le-lui avant, avec ces mots |
+| Comment répartir les parts ? | Les parts fixent le pouvoir, le partage du résultat, la responsabilité aux dettes (article 1857) et la succession. Ne les réglez pas pour plaire à la banque : réglez-les sur ce que chacun apporte et risque, et écrivez le reste dans les statuts (module 9, chapitre 4) |
+| Que gagne-t-il ? | Sa part du patrimoine constitué, sans y passer de temps si vous gérez. Pour un haut salaire qui n'investit pas, l'argument qui porte est la retraite : un capital remboursé par des locataires en vingt ans, là où sa pension remplacera une faible part de son salaire |
+| Et s'il apporte de l'argent plutôt qu'un profil ? | Un apport en compte courant d'associé reste une créance qu'il pourra récupérer, à la différence du capital. Fixez la rémunération et les conditions de remboursement dans une convention écrite. La banque demande souvent que ce compte reste bloqué pendant le prêt : lisez l'offre |
+| Associé proche de la retraite ? | Les banques ne réagissent pas toutes pareil à l'âge. Une pension est un revenu stable, mais l'assurance coûte cher et la durée se raccourcit. Une part minoritaire et une quotité d'assurance réduite sur lui simplifient le dossier |
+
+Le cadre familial est le plus lisible pour une banque et pour un organisme de caution. Entre amis ou entre investisseurs, tout se joue dans les statuts : agrément, sortie, décès, majorités. Et ce que vous annoncez à la banque sur la répartition du capital doit rester vrai après le prêt : une cession de parts demande en général son accord, c'est écrit dans le contrat.
 
 ## 11. Les financements alternatifs
 
@@ -386,12 +429,23 @@ L'ordre réaliste : vous commencez simple, avec des SCI détenues en direct. La 
 |---|---|---|
 | FICP (Banque de France) | Incidents de remboursement caractérisés (5 ans) et dossiers de surendettement (jusqu'à 7 ans) ; consultation obligatoire avant tout crédit (art. L751-1 C. conso) | Vos crédits en cours : il n'existe pas de fichier positif en France (registre censuré par le Conseil constitutionnel en 2014) |
 | FCC (Banque de France) | Interdits bancaires et retraits de carte, 5 ans | Rien d'autre |
-| FIBEN (Banque de France) | Cotation des entreprises d'une certaine taille, dirigeants et associés indéfiniment responsables (donc associés de SCI) | Vos crédits personnels |
+| FIBEN (Banque de France) | Pour chaque société : dirigeants, associés, liens avec d'autres sociétés, incidents de paiement, cotation pour les plus grandes. Pour chaque dirigeant : la liste de ses mandats | Vos crédits personnels |
+| Centralisation des risques (Banque de France, consultable par FIBEN) | Les crédits et les engagements de garantie de chaque société et de chaque entrepreneur individuel, déclarés tous les mois par chaque banque dès que l'encours atteint 25 000 € chez elle | Les crédits que vous avez souscrits en nom propre comme particulier |
 | Bases des organismes de caution | Chaque dossier accepté ou refusé, visible par toutes les banques clientes de l'organisme | Les prêts garantis par hypothèque ailleurs |
 | Vos relevés et avis d'imposition | Vos mensualités, vos virements vers d'autres comptes, vos revenus fonciers et BIC | Ce qui ne passe pas sur les comptes fournis, d'où la question « avez-vous d'autres comptes ? » |
-| Registres publics (infogreffe, Pappers) | Statuts, gérants et associés des SCI, comptes si déposés (les SCI n'y sont pas tenues) | Les prêts des SCI |
+| Registres publics (registre national des entreprises, infogreffe, sites comme Pappers) | Statuts, gérants et associés des SCI, comptes si déposés (les SCI n'y sont pas tenues) ; recherche par nom de dirigeant | Les prêts des SCI |
 
-Deux conséquences. Aucune banque ne voit l'ensemble de vos crédits par une simple recherche : elle les découvre par vos relevés, vos avis d'imposition, vos bilans et votre obligation de sincérité. Vous devez donc tout déclarer. Omettre un prêt est une fausse déclaration qui autorise la banque à exiger le remboursement immédiat de tout ce qu'elle vous a prêté (déchéance du terme) et peut être poursuivie comme escroquerie (article 313-1 du Code pénal). Une stratégie multi-banques est légitime ; une stratégie de dissimulation ne l'est pas, et elle se voit au plus tard sur la fiche patrimoniale que chaque caution signe.
+**En nom propre et en société, la banque ne voit pas la même chose.** Pour vos crédits personnels, aucune banque ne dispose d'un fichier : elle les découvre par vos relevés, vos avis d'imposition et votre obligation de sincérité. Pour vos sociétés, c'est l'inverse. Les banques adhérentes à FIBEN peuvent consulter les encours de chaque SCI, banque par banque, tels que les autres établissements les déclarent à la Banque de France (seuil de 25 000 € par établissement, à vérifier sur banque-france.fr). Croire qu'une SCI financée ailleurs est invisible est donc une erreur : c'est précisément ce qui se voit le mieux.
+
+**Comment la banque remonte jusqu'à vos sociétés.** Elle part de vous : votre nom donne vos mandats de gérant. Elle interroge ensuite chaque société trouvée : associés, participations, encours. Une holding, un gérant personne morale ou un nom de société passe-partout ne coupent pas la chaîne, ils ajoutent une étape. Tous les conseillers ne poussent pas la recherche jusqu'au bout, mais le pôle crédit et le comité le font dès que le montant est significatif.
+
+**Les organismes de caution ne s'arrêtent pas aux frontières des caisses.** « Deux caisses, deux banques » vaut pour la décision de crédit. Pas pour la caution : un même organisme garantit toutes les caisses de son réseau, Crédit Logement travaille avec presque tous les réseaux, et une même banque fait appel à plusieurs organismes. Un dossier présenté à la caisse d'une région est donc connu de l'organisme quand vous vous présentez dans la région voisine.
+
+**Le secret bancaire existe, y compris entre caisses.** Une banque ne peut pas raconter votre situation à une autre (article L511-33 du Code monétaire et financier, sanctionné par l'article 226-13 du Code pénal). C'est ce qui fonde l'indépendance de deux caisses d'un même réseau. La loi prévoit des exceptions, notamment au sein d'un groupe pour la gestion des risques et la lutte contre le blanchiment, et pour les garanties. Lisez-le comme une information sur ce que la banque sait, pas comme un abri : la fiche patrimoniale reste due, et elle est signée.
+
+**Vérifiez votre propre fichage.** Vous avez un droit d'accès gratuit au FICP et au FCC auprès de la Banque de France : en ligne avec FranceConnect, par courrier ou dans une succursale, avec une pièce d'identité (modalités sur banque-france.fr). Faites-le avant le premier rendez-vous. Si vous êtes inscrit, la réponse indique l'établissement qui a déclaré l'incident : régularisez, et c'est à lui de demander la radiation.
+
+Conséquence : vous devez tout déclarer. Omettre un prêt est une fausse déclaration qui autorise la banque à exiger le remboursement immédiat de tout ce qu'elle vous a prêté (déchéance du terme) et peut être poursuivie comme escroquerie (article 313-1 du Code pénal). Une stratégie multi-banques est légitime ; une stratégie de dissimulation ne l'est pas, et elle se voit au plus tard sur la fiche patrimoniale que chaque caution signe.
 
 La carte des banques et de leurs cautions (2026, à vérifier) :
 
@@ -439,6 +493,27 @@ Deux limites à connaître. Un mandat de président n'est pas un contrat de trav
 
 **Exemple.** Nadia, consultante, facture 9 000 € par mois avec une SASU créée il y a huit mois. Sans bilan, aucune banque ne la suit. Elle passe en portage salarial en CDI et se fait verser 4 300 € nets par mois. Dix mois plus tard, elle obtient 240 000 € pour un immeuble, en SCI, avec hypothèque. Elle a payé environ 7 % de frais de gestion pendant cette période, et gagné deux ans sur son premier investissement.
 
+## 14. Les raccourcis qui coûtent cher
+
+Vous croiserez, dans des formations, des vidéos ou des groupes d'investisseurs, des « astuces » pour faire passer un dossier. Elles ont un point commun : elles consistent à faire croire à la banque autre chose que la réalité. Ce chapitre ne les détaille pas. Il dit comment elles se voient, ce qu'elles coûtent, et ce qui donne presque le même résultat sans risque.
+
+Le cadre d'abord. Obtenir un prêt en trompant le prêteur sur sa situation est une escroquerie (article 313-1 du Code pénal : cinq ans d'emprisonnement et 375 000 € d'amende). Fabriquer ou modifier un document, ou s'en servir, est un faux et usage de faux (article 441-1 : trois ans et 45 000 €). Et tous les contrats de prêt prévoient la déchéance du terme en cas de fausse déclaration : la banque peut exiger d'un coup tout ce qu'elle vous a prêté, des années après, le jour où elle s'en aperçoit. Vérifiez ces textes sur Legifrance.
+
+| Le raccourci | Comment la banque le voit | Ce que vous risquez | Ce qui marche à la place |
+|---|---|---|---|
+| Ne montrer qu'un compte « propre » et loger le reste de ses dépenses ailleurs | Un train de vie qui ne colle pas au salaire, des virements sortants réguliers, l'absence de loyer ou de courses sur les relevés, la question « avez-vous d'autres comptes ? » à laquelle il faut alors mentir par écrit | Fausse déclaration, refus dans tout le réseau, déchéance du terme si le prêt a été accordé | Réduire réellement ses dépenses six à douze mois avant, et mettre en place un virement d'épargne automatique (chapitre 1) |
+| Taire une SCI, un prêt ou une caution déjà donnés | La centralisation des risques pour les sociétés, FIBEN pour vos mandats, les organismes de caution, les registres, vos avis d'imposition (chapitre 12) | Le risque le plus lourd du parcours : remboursement immédiat de tous les prêts de la banque, poursuites | Tout déclarer et en faire un argument : des sociétés qui remboursent sans incident sont votre meilleur dossier (chapitre 10) |
+| Se présenter comme simple salarié de sa propre société | Les registres, la mention du mandat, la chaîne des associés, les bilans qu'elle demandera | Dossier perdu, crédibilité perdue pour les suivants, et requalification possible du contrat de travail | Se verser un vrai salaire deux ans avant, ou passer par le portage salarial, et apporter les bilans d'entrée (chapitre 13) |
+| Arranger une pièce : contrat, bulletin, attestation, courriel, libellé de virement | Les demandes en cascade (contrat, ancienneté, avis d'imposition, cumul de décembre), un appel à l'employeur, une incohérence entre deux pièces | Faux et usage de faux : c'est le pénal, quel que soit le sort du prêt | Préparer l'explication vraie et les pièces qui la prouvent ; attendre trois mois si un point n'est pas présentable |
+| Déposer deux demandes en même temps pour deux biens sans le dire à aucune des deux banques | L'organisme de caution commun, la centralisation des risques, la fiche patrimoniale à signer avant l'offre | Deux prêts exigibles d'un coup, et un taux d'effort réel que vous ne tenez peut-être pas | Présenter les deux opérations ensemble à une banque, ou les enchaîner à six mois d'intervalle |
+| Inventer un motif : un déménagement pour justifier un achat lointain, des travaux pour obtenir une suspension, un refus de caution pour demander l'hypothèque | Les incohérences, au fil des mois et des pièces | La confiance du conseiller, qui est ce qui finance les biens suivants | Donner la vraie raison, elle est presque toujours recevable : le rendement y est meilleur, je compte diviser, j'ai besoin de trésorerie pendant le chantier |
+| Minorer ou gonfler les chiffres du projet | Les annonces comparables, l'estimation de l'agence, les devis | Un dossier jugé incohérent, donc refusé | Le scénario prudent, présenté comme tel (chapitre 2) |
+| Annoncer une répartition du capital à la banque, puis la modifier sans le lui dire | Le registre, à la première mise à jour du dossier ou au prêt suivant | La clause de changement d'associé : la banque peut exiger le remboursement | Demander son accord par écrit avant toute cession de parts (chapitre 10) |
+
+Pourquoi ces raccourcis tentent : ils marchent parfois, une fois. Pourquoi ils ne valent rien pour un investisseur : vous n'empruntez pas une fois. Vous revenez voir les mêmes banques pendant vingt ans, vos dossiers sont remis à jour à chaque demande, et un mensonge doit être tenu à chaque fois, devant chaque interlocuteur. La stratégie de ce module (profil construit, SCI, hypothèque, une SCI par banque, relation suivie) donne plus de capacité d'emprunt que n'importe lequel de ces raccourcis, et elle se renforce à chaque opération au lieu de se fragiliser.
+
+**Idée reçue.** « Tout le monde le fait, et les banques ferment les yeux. » Un conseiller pressé peut ne pas tout vérifier le jour de la demande. Le service des risques, lui, vérifie le jour où quelque chose se passe mal : un impayé, une revente, un contrôle. C'est à ce moment-là que la fausse déclaration ressort, et c'est le pire moment pour vous.
+
 ## Les pièges et idées reçues du module
 
 1. **« Ma banque me connaît, elle me prêtera. »** Elle vous connaît comme salarié. Deux banques, dont une nouvelle.
@@ -453,6 +528,10 @@ Deux limites à connaître. Un mandat de président n'est pas un contrat de trav
 10. **Confier son financement à un courtier quand on investit.** Trouver ses banques fait partie du métier, et un dossier envoyé partout vous ferme des portes.
 11. **Présenter une holding sans bilan.** La banque aime ce qu'elle comprend en dix secondes.
 12. **Vouloir investir avant d'avoir le profil.** Salaire stable, résidence principale, épargne mensuelle : dans cet ordre, puis l'investissement.
+13. **Croire qu'une SCI financée ailleurs ne se voit pas.** Les crédits des sociétés sont déclarés à la Banque de France et consultables par les autres banques.
+14. **Demander l'hypothèque après le refus de la caution.** Demandez-la au premier rendez-vous, avec votre raison.
+15. **Attendre l'impayé pour appeler la banque.** Modulation, report, délai de grâce : tout se demande avant.
+16. **Prendre un raccourci.** Un compte caché, un prêt oublié, une pièce arrangée : un gain d'une fois contre un risque sur vingt ans.
 
 ## Pour aller plus loin
 
@@ -461,4 +540,7 @@ Deux limites à connaître. Un mandat de président n'est pas un contrat de trav
 - Code civil : articles 1857 et 1858 (obligation aux dettes des associés de société civile), 2288 et suivants (cautionnement, réforme du 1er janvier 2022, notamment 2297 et 2300), 2402 (hypothèques légales spéciales, dont celle du prêteur de deniers), 2434 (durée de l'inscription).
 - Loi n° 2022-270 du 28 février 2022 (loi Lemoine) : résiliation à tout moment et suppression du questionnaire médical sous conditions, codifiée aux articles L113-12-2 du Code des assurances et L313-30 du Code de la consommation.
 - Banque de France : fiches FICP, FCC et taux d'usure sur banque-france.fr ; convention AERAS sur aeras-infos.fr.
+- Banque de France : « La centralisation des risques bancaires » et notices FIBEN sur banque-france.fr ; droit d'accès aux fichiers d'incidents depuis l'espace particuliers.
+- Code de la consommation, article L314-20, et Code civil, article 1343-5 (délai de grâce) ; Code civil, articles 2305 et 2306 (bénéfices de discussion et de division de la caution).
+- Code monétaire et financier, article L511-33 (secret professionnel des établissements de crédit) ; Code pénal, articles 226-13, 313-1 et 441-1.
 - Décision du Conseil constitutionnel n° 2014-690 DC du 13 mars 2014 (censure du registre national des crédits aux particuliers).

@@ -13,10 +13,11 @@ Parler banquier : comprendre comment le dossier est monté de l'autre côté du 
 7. La garantie : hypothèque, PPD, caution (Crédit Logement, SACCEF, CAMCA) ; coût, mainlevée, ce qui convient à un investisseur
 8. Courtier ou pas : pourquoi un investisseur cherche lui-même son financement
 9. Les refus : les lire, rebondir, et ce que vingt refus m'ont appris
-10. Emprunter en SCI : qui emprunte, qui cautionne, art. 1857 ; enchaîner avec une SCI par banque et une hypothèque par bien ; deux caisses régionales sont deux banques ; pas de holding sans bilans ni trésorerie
+10. Emprunter en SCI : qui emprunte, qui cautionne, art. 1857 ; enchaîner avec une SCI par banque et une hypothèque par bien ; deux caisses régionales sont deux banques ; pas de holding sans bilans ni trésorerie ; s'associer (avec qui, caution solidaire, répartition des parts)
 11. Les financements alternatifs : prêt hypothécaire, vente à terme, crédit vendeur
-12. Ce que les banques voient de vous et comment : Banque de France (FICP), FIBEN, organismes de caution partagés entre réseaux, relevés, Pappers et les sociétés ; la carte des banques et de leurs cautions
+12. Ce que les banques voient de vous et comment : Banque de France (FICP, FIBEN, centralisation des risques pour les sociétés), organismes de caution partagés entre réseaux, secret bancaire, relevés, registres ; vérifier son propre fichage ; la carte des banques et de leurs cautions
 13. Emprunter quand on est entrepreneur ou TNS : bilans, moyenne des revenus, ce que la banque retient ; se verser un salaire ou passer par le portage salarial
+14. Les raccourcis qui coûtent cher : compte caché, prêt non déclaré, pièce arrangée ; comment la banque le voit, ce que l'on risque, ce qui marche à la place
 
 ## Action à réaliser avant le module suivant
 
@@ -24,7 +25,7 @@ Constituer son dossier bancaire complet dans un seul PDF et le présenter à deu
 
 ## Livrables
 
-- Cours PDF (40 pages)
+- Cours PDF (24 pages)
 - Check-list des pièces du dossier (PDF)
 - Excel : simulateur de prêt (mensualité, tableau d'amortissement, coût total, comparaison de durées)
 - Mémo : les questions à poser au banquier
@@ -40,6 +41,7 @@ Constituer son dossier bancaire complet dans un seul PDF et le présenter à deu
 
 - 15/11/2026 : cours v1, mémo, quiz, exercice, outils.
 - 15/11/2026 (relecture de l'auteur) : ajout du profil emprunteur, des objectifs du banquier, de la stratégie SCI, hypothèque et une SCI par banque, de la holding, du salaire de dirigeant et du portage ; chapitre courtier réécrit ; modèle de dossier de financement.
+- 15/11/2026 (seconde relecture) : correction du chapitre 12 (les crédits des SCI sont visibles des banques), domiciliation avec plusieurs banques, autonomie à la sortie du différé, délai de grâce, refus de caution, journal des rendez-vous, s'associer, chapitre 14 sur les raccourcis.
 
 ## Fichiers à télécharger
 
