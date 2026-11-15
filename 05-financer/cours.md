@@ -10,7 +10,7 @@
 - Choisir le type de prêt, la durée, les clauses, l'assurance et la garantie adaptés à un investisseur, pas à un acheteur de résidence principale.
 - Lire un refus, rebondir, et savoir emprunter en SCI, en indépendant, ou sans banque.
 - Construire le profil que les banques financent (résidence principale, salaire, épargne) et enchaîner les opérations : SCI, hypothèque, une SCI par banque.
-- Savoir ce que les banques voient de vous, et ce qu'elles ne voient pas.
+- Savoir ce que les banques voient de vous, et en particulier comment elles retrouvent toutes vos sociétés et leurs crédits à partir de votre mandat de gérant.
 - Reconnaître les raccourcis que l'on vous conseillera (cacher un compte, taire un prêt, arranger une pièce) et savoir ce qu'ils coûtent.
 
 Action à réaliser avant le module suivant : constituer votre dossier bancaire complet dans un seul PDF et le présenter à deux banques.
@@ -384,7 +384,7 @@ La trésorerie de chaque société décide de son prochain achat. Une SCI qui d�
 
 **Exemple.** Sarah, en CDI, propriétaire de sa résidence principale, crée une première SCI avec son frère. La caisse régionale de son département finance un immeuble à 280 000 €, puis un second à 320 000 € dix-huit mois plus tard, dans la même société, chacun garanti par une hypothèque. Au troisième projet, son conseiller lui dit que le comité ne suivra pas avant deux ans. Sarah crée une deuxième SCI et présente son projet suivant, un immeuble dans la région voisine, à la caisse régionale de cette région. Elle y apporte les bilans de la première SCI, qui montrent deux prêts remboursés sans incident, et la liste complète de ses engagements. Accord, avec hypothèque sur le nouvel immeuble.
 
-**Une SCI par banque ne veut pas dire cacher une banque à l'autre.** Chaque banque vous demande une fiche patrimoniale et la liste de vos engagements, cautions comprises. Vous y inscrivez toutes vos SCI et tous leurs prêts. C'est une obligation (chapitre 12), et c'est aussi votre meilleur argument : des sociétés qui remboursent, des immeubles loués, des garanties séparées. Ce qui rend le montage efficace, c'est que chaque banque décide sur son propre risque. Ce n'est pas qu'elle ignore les autres.
+**Une SCI par banque ne veut pas dire cacher une banque à l'autre, et ce serait de toute façon impossible.** La banque retrouve toutes les sociétés dont vous êtes gérant, puis leurs crédits (chapitre 12). Chaque banque vous demande une fiche patrimoniale et la liste de vos engagements, cautions comprises. Vous y inscrivez toutes vos SCI et tous leurs prêts. C'est une obligation (chapitre 12), et c'est aussi votre meilleur argument : des sociétés qui remboursent, des immeubles loués, des garanties séparées. Ce qui rend le montage efficace, c'est que chaque banque décide sur son propre risque. Ce n'est pas qu'elle ignore les autres.
 
 ### 10.2 La banque aime la simplicité : pas de holding dans la demande
 
@@ -435,9 +435,17 @@ Le cadre familial est le plus lisible pour une banque et pour un organisme de ca
 | Vos relevés et avis d'imposition | Vos mensualités, vos virements vers d'autres comptes, vos revenus fonciers et BIC | Ce qui ne passe pas sur les comptes fournis, d'où la question « avez-vous d'autres comptes ? » |
 | Registres publics (registre national des entreprises, infogreffe, sites comme Pappers) | Statuts, gérants et associés des SCI, comptes si déposés (les SCI n'y sont pas tenues) ; recherche par nom de dirigeant | Les prêts des SCI |
 
-**En nom propre et en société, la banque ne voit pas la même chose.** Pour vos crédits personnels, aucune banque ne dispose d'un fichier : elle les découvre par vos relevés, vos avis d'imposition et votre obligation de sincérité. Pour vos sociétés, c'est l'inverse. Les banques adhérentes à FIBEN peuvent consulter les encours de chaque SCI, banque par banque, tels que les autres établissements les déclarent à la Banque de France. Croire qu'une SCI financée ailleurs est invisible est donc une erreur : c'est précisément ce qui se voit le mieux.
+**Tout passe par la gérance : retenez ce point avant tous les autres.** Le fil que la banque tire, c'est votre mandat de gérant. Elle saisit votre nom dans ses outils internes, qui interrogent les fichiers de la Banque de France, et obtient la liste de toutes les sociétés dont vous êtes gérant. Avec le nom de chaque société, elle consulte ensuite les crédits qui y sont attachés, banque par banque, tels que les autres établissements les déclarent. En deux recherches, elle a la carte de vos SCI et de leurs dettes, y compris celles financées ailleurs.
 
-**Comment la banque remonte jusqu'à vos sociétés.** Elle part de vous : votre nom donne vos mandats de gérant. Elle interroge ensuite chaque société trouvée : associés, participations, encours. Une holding, un gérant personne morale ou un nom de société passe-partout ne coupent pas la chaîne, ils ajoutent une étape. Tous les conseillers ne poussent pas la recherche jusqu'au bout, mais le pôle crédit et le comité le font dès que le montant est significatif.
+| Étape | Ce que fait la banque | Ce qu'elle obtient |
+|---|---|---|
+| 1 | Recherche sur votre nom | Tous vos mandats de gérant, donc le nom de toutes vos sociétés |
+| 2 | Recherche sur chaque société | Ses associés, ses liens avec d'autres sociétés, et ses crédits en cours dans chaque banque |
+| 3 | Comparaison avec votre fiche patrimoniale | Ce que vous avez déclaré, et ce que vous avez omis |
+
+C'est la mise en garde la plus importante de ce module. Une SCI dont vous êtes gérant n'est jamais invisible, et ses prêts non plus. Celui qui se présente comme un primo-investisseur alors qu'il gère deux SCI financées ailleurs est démasqué avant même que son dossier parte en comité, et il a signé une fiche patrimoniale fausse. Une holding, un gérant personne morale ou un nom de société passe-partout ne coupent pas le fil, ils ajoutent une étape. Tous les conseillers ne font pas la recherche le jour du rendez-vous, mais le pôle crédit et le comité la font.
+
+À l'inverse, pour vos crédits personnels en nom propre, il n'existe aucun fichier : la banque les découvre par vos relevés, vos avis d'imposition et votre obligation de sincérité. C'est cette différence qui fait croire, à tort, que les prêts des sociétés seraient eux aussi invisibles. C'est le contraire : ce sont eux qui se voient le mieux.
 
 **Les organismes de caution ne s'arrêtent pas aux frontières des caisses.** « Deux caisses, deux banques » vaut pour la décision de crédit. Pas pour la caution : un même organisme garantit toutes les caisses de son réseau, Crédit Logement travaille avec presque tous les réseaux, et une même banque fait appel à plusieurs organismes. Un dossier présenté à la caisse d'une région est donc connu de l'organisme quand vous vous présentez dans la région voisine.
 
@@ -502,7 +510,7 @@ Le cadre d'abord. Obtenir un prêt en trompant le prêteur sur sa situation est 
 | Le raccourci | Comment la banque le voit | Ce que vous risquez | Ce qui marche à la place |
 |---|---|---|---|
 | Ne montrer qu'un compte « propre » et loger le reste de ses dépenses ailleurs | Un train de vie qui ne colle pas au salaire, des virements sortants réguliers, l'absence de loyer ou de courses sur les relevés, la question « avez-vous d'autres comptes ? » à laquelle il faut alors mentir par écrit | Fausse déclaration, refus dans tout le réseau, déchéance du terme si le prêt a été accordé | Réduire réellement ses dépenses six à douze mois avant, et mettre en place un virement d'épargne automatique (chapitre 1) |
-| Taire une SCI, un prêt ou une caution déjà donnés | La centralisation des risques pour les sociétés, FIBEN pour vos mandats, les organismes de caution, les registres, vos avis d'imposition (chapitre 12) | Le risque le plus lourd du parcours : remboursement immédiat de tous les prêts de la banque, poursuites | Tout déclarer et en faire un argument : des sociétés qui remboursent sans incident sont votre meilleur dossier (chapitre 10) |
+| Taire une SCI, un prêt ou une caution déjà donnés | Par votre mandat de gérant : votre nom donne la liste de vos sociétés, et chaque société donne ses crédits dans les autres banques (chapitre 12). S'y ajoutent les organismes de caution, les registres et vos avis d'imposition | Le risque le plus lourd du parcours : remboursement immédiat de tous les prêts de la banque, poursuites | Tout déclarer et en faire un argument : des sociétés qui remboursent sans incident sont votre meilleur dossier (chapitre 10) |
 | Se présenter comme simple salarié de sa propre société | Les registres, la mention du mandat, la chaîne des associés, les bilans qu'elle demandera | Dossier perdu, crédibilité perdue pour les suivants, et requalification possible du contrat de travail | Se verser un vrai salaire deux ans avant, ou passer par le portage salarial, et apporter les bilans d'entrée (chapitre 13) |
 | Arranger une pièce : contrat, bulletin, attestation, courriel, libellé de virement | Les demandes en cascade (contrat, ancienneté, avis d'imposition, cumul de décembre), un appel à l'employeur, une incohérence entre deux pièces | Faux et usage de faux : c'est le pénal, quel que soit le sort du prêt | Préparer l'explication vraie et les pièces qui la prouvent ; attendre trois mois si un point n'est pas présentable |
 | Déposer deux demandes en même temps pour deux biens sans le dire à aucune des deux banques | L'organisme de caution commun, la centralisation des risques, la fiche patrimoniale à signer avant l'offre | Deux prêts exigibles d'un coup, et un taux d'effort réel que vous ne tenez peut-être pas | Présenter les deux opérations ensemble à une banque, ou les enchaîner à six mois d'intervalle |
@@ -528,7 +536,7 @@ Pourquoi ces raccourcis tentent : ils marchent parfois, une fois. Pourquoi ils n
 10. **Confier son financement à un courtier quand on investit.** Trouver ses banques fait partie du métier, et un dossier envoyé partout vous ferme des portes.
 11. **Présenter une holding sans bilan.** La banque aime ce qu'elle comprend en dix secondes.
 12. **Vouloir investir avant d'avoir le profil.** Salaire stable, résidence principale, épargne mensuelle : dans cet ordre, puis l'investissement.
-13. **Croire qu'une SCI financée ailleurs ne se voit pas.** Les crédits des sociétés sont déclarés à la Banque de France et consultables par les autres banques.
+13. **Croire qu'une SCI financée ailleurs ne se voit pas.** Tout passe par la gérance : votre nom donne vos sociétés, et chaque société donne ses crédits. La banque le sait en deux recherches.
 14. **Demander l'hypothèque après le refus de la caution.** Demandez-la au premier rendez-vous, avec votre raison.
 15. **Attendre l'impayé pour appeler la banque.** Modulation, report, délai de grâce : tout se demande avant.
 16. **Prendre un raccourci.** Un compte caché, un prêt oublié, une pièce arrangée : un gain d'une fois contre un risque sur vingt ans.
