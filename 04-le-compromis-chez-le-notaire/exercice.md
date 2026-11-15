@@ -1,0 +1,21 @@
+# Exercice du module 4 : le cas de Thomas et Nadia
+
+Thomas et Nadia, pacsés, achètent un immeuble de deux logements dans une ville moyenne, 210 000 € frais d'agence inclus (honoraires à la charge du vendeur). Le rez-de-chaussée est loué 520 € par mois, l'étage est vide et demande 30 000 € de travaux. Ils veulent diviser les combles pour créer un troisième logement, ce qui nécessite une déclaration préalable en mairie. Ils ont un accord de principe de leur banque pour 260 000 € sur 25 ans au taux indicatif de 3,4 % hors assurance. Ils hésitent entre acheter en nom propre et en SCI. L'agent leur propose de signer le compromis à l'agence dès samedi, avec 10 % de séquestre « pour montrer leur sérieux ».
+
+**Questions**
+
+1. Compromis ou promesse ? Chez qui ? Justifiez en deux phrases.
+2. Rédigez leur condition suspensive de prêt (montant, taux maximal, durée, délai, nombre de banques), en comptant 8 % de frais de notaire et les travaux financés.
+3. Doivent-ils mettre une condition suspensive liée à la division des combles ? Quel délai le vendeur devra-t-il accepter, et que risque-t-il de demander en échange ?
+4. Quel séquestre proposez-vous, et où ? Que répondre à l'agent ?
+5. Ils signent le compromis le vendredi 10 avril 2026 et la lettre recommandée leur est présentée le mardi 14 avril. Jusqu'à quel jour peuvent-ils se rétracter ? Et s'ils avaient signé via une SCI ?
+6. Quelle clause leur permet de décider plus tard entre nom propre et SCI, et à quelles conditions fonctionne-t-elle ?
+
+**Correction**
+
+1. Un compromis, chez leur notaire. Ils sont décidés et financés : la promesse unilatérale ne leur apporterait rien de plus, et le compromis est l'usage pour ce type de bien en province. À l'agence, ils n'auraient ni les conditions d'urbanisme ni la clause de substitution rédigées correctement.
+2. Montant à financer : 210 000 + 16 800 (8 %) + 30 000 = 256 800 €. Condition : « obtention d'un ou plusieurs prêts d'un montant maximal de 257 000 €, d'une durée maximale de 25 ans, au taux nominal maximal de 4 % hors assurance, auprès d'au plus deux établissements, dans un délai de 60 jours à compter des présentes ; l'acquéreur justifiera du dépôt d'un dossier complet sous 15 jours ». Le taux de 4 % laisse 0,6 point de marge au-dessus de l'indication de la banque. L'accord de principe de 260 000 € couvre le montant.
+3. Oui si la division est au cœur de leur rendement : « obtention d'une déclaration préalable autorisant la création d'un logement dans les combles, purgée du recours des tiers et du retrait administratif ». Délai réaliste : 4 à 6 mois (instruction 1 à 2 mois, affichage 2 mois, retrait 3 mois qui court en parallèle). Le vendeur demandera probablement une indemnité d'immobilisation, ou refusera : dans ce cas, ils doivent décider si l'opération tient sans le troisième logement (deux logements, 30 000 € de travaux) et chiffrer le rendement sans lui avant de signer. Alternative : déposer la déclaration préalable avec l'accord écrit du vendeur avant le compromis, pour raccourcir.
+4. Le séquestre n'est pas obligatoire. Avec un accord de principe écrit, 2 à 3 % (4 000 à 6 000 €) suffisent, par virement sur le compte du notaire. Réponse à l'agent : « nous versons 5 000 € chez le notaire à la signature du compromis, et nous déposons notre dossier de prêt dès le lendemain ». Rien avant le compromis, rien à l'agence.
+5. Le délai court du mercredi 15 avril au vendredi 24 avril 2026 inclus. Le 24 est un vendredi, pas de prolongation : la lettre recommandée de rétractation doit être postée au plus tard le 24 avril. En SCI, pas de délai de rétractation en principe (acquéreur professionnel au sens de l'article L271-1 CCH) : la décision doit être prise avant la signature.
+6. La clause de substitution, insérée dans l'offre et reprise au compromis : ils signent en nom propre et se font substituer par une SCI avant l'acte. Conditions : SCI immatriculée avec Kbis et procès-verbal autorisant l'achat et l'emprunt, banque informée dès le compromis que l'emprunteur sera la SCI (dossier et cautions des associés à prévoir), substitution gratuite, et Thomas et Nadia restent garants solidaires vis-à-vis du vendeur. Délai de création d'une SCI : trois à six semaines, compatible avec un acte à quatre mois.
