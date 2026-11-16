@@ -106,15 +106,29 @@ Les prorata méritent une lecture à part. Le principe est simple : chacun suppo
 
 ## 4. Le jour J
 
-### 4.1 L'argent
+### 4.1 La dernière visite, et le sinistre survenu depuis le compromis
+
+Entre le compromis et l'acte, il s'écoule trois mois. Revisitez le bien la veille ou le matin de la signature, compromis en main : logement vidé, équipements et mobilier listés toujours en place, chauffage et eau qui fonctionnent, aucune trace nouvelle au plafond ou aux murs. Prévenez le vendeur ou l'agent une semaine avant, c'est une demande normale.
+
+Si vous découvrez un sinistre survenu entre-temps (un dégât des eaux, par exemple), ne signez pas en l'état. Qui le supporte ? Selon le Code civil, les risques suivent la propriété, et les parties peuvent différer ce transfert (article 1196). C'est ce que font la plupart des compromis : ils reportent le transfert de propriété et des risques au jour de l'acte authentique. Dans ce cas, le sinistre reste l'affaire du vendeur et de son assureur. Relisez votre clause avant d'en parler, et faites-la confirmer par votre notaire : c'est elle qui décide.
+
+Ensuite, tout passe par écrit et par le notaire :
+
+1. Vous demandez que le vendeur déclare le sinistre à son assureur et vous en communique la preuve.
+2. Vous demandez la réparation avant l'acte, quitte à décaler la signature de quelques semaines par un avenant.
+3. Si la réparation ne peut pas être faite à temps, vous proposez une retenue sur le prix, chiffrée par un devis, que le notaire conserve en séquestre et libère sur facture des travaux, selon une convention signée par les deux parties.
+
+**Exemple.** Inès visite la veille de l'acte et trouve une auréole au plafond de la salle de bains : une fuite chez le voisin du dessus, trois semaines plus tôt. Son compromis reporte les risques à l'acte. Son notaire écrit au notaire du vendeur le soir même. Le vendeur déclare le sinistre ; le devis de reprise du plafond s'élève à 1 800 €. L'acte est signé à la date prévue, avec 2 500 € retenus sur le prix et séquestrés à l'étude, libérés au vendeur six semaines plus tard, une fois le plafond refait et la facture produite.
+
+### 4.2 L'argent
 
 Tout ce que vous payez passe par virement sur le compte du notaire : depuis 2015, un notaire ne peut pas recevoir de paiement par chèque, même de banque, au-delà de 3 000 € (article L112-6-1 du Code monétaire et financier). Le notaire vous envoie, une semaine avant, un décompte avec le montant exact à virer : prix moins séquestre moins prêt, plus la provision sur frais, plus les prorata. Faites le virement deux à trois jours ouvrés avant, depuis un compte dont vous avez relevé le plafond de virement (appelez votre banque : un plafond à 3 000 € par jour bloque un virement de 20 000 €). Les fonds du prêt arrivent directement de la banque. Pas de fonds, pas de signature.
 
-### 4.2 Ce que vous apportez
+### 4.3 Ce que vous apportez
 
 Pièce d'identité, relevé d'identité bancaire, attestation d'assurance emprunteur si le notaire l'exige, et, pour une SCI, Kbis, statuts, procès-verbal autorisant l'acquisition et votre pièce d'identité de gérant. Si vous ne pouvez pas être présent, une procuration (authentique ou sous seing privé avec signature certifiée) permet à un clerc de signer pour vous. La signature se fait de plus en plus sur tablette, avec un acte électronique : rien ne change sur le fond.
 
-### 4.3 Le déroulement
+### 4.4 Le déroulement
 
 1. Le notaire lit l'acte, ou le résume en s'arrêtant sur les points importants. Posez vos questions, c'est le moment.
 2. Vous signez, le vendeur signe, le notaire signe.
@@ -122,7 +136,7 @@ Pièce d'identité, relevé d'identité bancaire, attestation d'assurance emprun
 4. Vous recevez une attestation de propriété. Le titre définitif arrive trois à six mois plus tard, après publication au service de la publicité foncière.
 5. Le vendeur vous remet les clés, badges, télécommandes, et les documents du bien (notices, factures, plans, garanties).
 
-### 4.4 Le procès-verbal de remise des clés
+### 4.5 Le procès-verbal de remise des clés
 
 Il n'est pas obligatoire. Faites-le quand même, le jour même, avant de quitter le bien : un document d'une page, signé par le vendeur et vous, qui liste les clés remises, les relevés des compteurs d'eau, d'électricité et de gaz avec photos, l'état des lieux rapide des pièces, et les éventuels défauts constatés. Si le bien est loué, le locataire n'a pas à être présent, mais vous lui enverrez dans la semaine un courrier qui l'informe du changement de propriétaire, avec vos coordonnées et le compte à utiliser pour le loyer.
 
@@ -195,6 +209,7 @@ Si la SCI a été créée pour cette acquisition (module 9 pour le détail), voi
 ## Pour aller plus loin
 
 - Code de la consommation, articles L313-24 à L313-36 (offre de prêt, délai de réflexion, condition résolutoire) et L313-40 à L313-42 (lien avec le contrat de vente).
+- Code civil, article 1196 (transfert de propriété et des risques, report possible par la volonté des parties).
 - Code monétaire et financier, article L112-6-1 (paiement par virement des actes notariés).
 - Code général des impôts, articles 1594 D et suivants (droits de mutation) et 239 (option pour l'impôt sur les sociétés) ; loi de finances pour 2025 (relèvement temporaire de la taxe départementale).
 - Loi n° 65-557 du 10 juillet 1965, article 46 (surface Carrez) et article 9-1 (assurance obligatoire du copropriétaire) ; décret n° 67-223 du 17 mars 1967, article 6-2 (répartition des charges entre vendeur et acquéreur).

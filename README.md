@@ -1,10 +1,10 @@
 # immo-playbook
 
-Une formation complète à l'investissement immobilier en France, pour quelqu'un qui part de zéro. Les modules suivent l'ordre réel d'une opération : on prépare, on cherche, on visite, on négocie, on signe, on finance, on fait les travaux, on loue. Puis on approfondit : fiscalité, local commercial, marchand de biens.
+Une formation complète à l'investissement immobilier en France, pour quelqu'un qui part de zéro. Les modules suivent l'ordre réel d'une opération : on prépare, on cherche, on visite, on négocie, on signe, on finance, on fait les travaux, on loue. Puis on approfondit : fiscalité, local commercial, marchand de biens, achat en Guadeloupe et à La Réunion.
 
 > Retour d'expérience, pas un conseil personnalisé. Chaque règle fiscale ou bancaire porte sa date et sa source. Avant de décider : expert-comptable et notaire.
 
-## Les 12 modules
+## Les 13 modules
 
 | N° | Module | Vous saurez |
 |---|---|---|
@@ -20,6 +20,7 @@ Une formation complète à l'investissement immobilier en France, pour quelqu'un
 | 09 | [Montage fiscal et structures](09-montage-fiscal-et-structures/) | Le module qui explique le choix fait au module 0 : nom propre, LMNP, SCI à l'IR ou à l'IS, SARL de famille, holding, transmission. Chaque règle porte sa date. |
 | 10 | [Le local commercial](10-local-commercial/) | Un autre métier : le bail commercial, le locataire-entreprise, le rendement plus élevé et le risque de vacance. |
 | 11 | [Marchand de biens](11-marchand-de-biens/) | Acheter pour revendre : un statut, une société, une TVA, des assurances, et des opérations dont on fait l'autopsie. |
+| 12 | [Guadeloupe et La Réunion](12-guadeloupe-et-la-reunion/) | Le même droit, mais un foncier, des risques naturels, une assurance, des travaux et une gestion à distance qui changent le calcul. |
 
 ## Ce que contient chaque module
 
@@ -57,3 +58,4 @@ Cliquez sur un PDF puis sur le bouton « Download » (ou « Raw ») de GitHub po
 | [09. Montage fiscal et structures](09-montage-fiscal-et-structures/) | [PDF](pdf/09-montage-fiscal-et-structures-cours.pdf) | [PDF](pdf/09-montage-fiscal-et-structures-memo.pdf) | [PDF](pdf/09-montage-fiscal-et-structures-quiz.pdf) | [PDF](pdf/09-montage-fiscal-et-structures-exercice.pdf) | [Arbre decision vehicule](pdf/09-montage-fiscal-et-structures-outil-arbre_decision_vehicule.pdf) | [Simulateur structures](09-montage-fiscal-et-structures/outils/simulateur_structures.xlsx) |
 | [10. Le local commercial](10-local-commercial/) | [PDF](pdf/10-local-commercial-cours.pdf) | [PDF](pdf/10-local-commercial-memo.pdf) | [PDF](pdf/10-local-commercial-quiz.pdf) | [PDF](pdf/10-local-commercial-exercice.pdf) | [Annonce location local](pdf/10-local-commercial-outil-annonce_location_local.pdf), [Checklist appel](pdf/10-local-commercial-outil-checklist_appel.pdf), [Checklist emplacement](pdf/10-local-commercial-outil-checklist_emplacement.pdf), [Checklist visite local](pdf/10-local-commercial-outil-checklist_visite_local.pdf), [Clauses bail commercial](pdf/10-local-commercial-outil-clauses_bail_commercial.pdf), [Glossaire local commercial](pdf/10-local-commercial-outil-glossaire_local_commercial.pdf), [Mails mairie](pdf/10-local-commercial-outil-mails_mairie.pdf), [Scoring preneur](pdf/10-local-commercial-outil-scoring_preneur.pdf), [Scripts relance](pdf/10-local-commercial-outil-scripts_relance.pdf), [Trame dossier pret local](pdf/10-local-commercial-outil-trame_dossier_pret_local.pdf), [Types de locaux](pdf/10-local-commercial-outil-types_de_locaux.pdf) | [Analyse local](10-local-commercial/outils/analyse_local.xlsx) |
 | [11. Marchand de biens](11-marchand-de-biens/) | [PDF](pdf/11-marchand-de-biens-cours.pdf) | [PDF](pdf/11-marchand-de-biens-memo.pdf) | [PDF](pdf/11-marchand-de-biens-quiz.pdf) | [PDF](pdf/11-marchand-de-biens-exercice.pdf) | sans objet | [Chiffrage operation mdb](11-marchand-de-biens/outils/chiffrage_operation_mdb.xlsx) |
+| [12. Guadeloupe et La Réunion](12-guadeloupe-et-la-reunion/) | [PDF](pdf/12-guadeloupe-et-la-reunion-cours.pdf) | [PDF](pdf/12-guadeloupe-et-la-reunion-memo.pdf) | [PDF](pdf/12-guadeloupe-et-la-reunion-quiz.pdf) | [PDF](pdf/12-guadeloupe-et-la-reunion-exercice.pdf) | sans objet | sans objet |

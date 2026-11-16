@@ -153,9 +153,9 @@ Il n'existe pas de « meilleur montage », seulement un montage adapté à cinq 
 | Nom propre, nue | TMI + 17,2 % | Non | Directe | Particuliers (exonération à 22/30 ans) | 0 |
 | Nom propre, meublé (LMNP réel) | TMI + 17,2 % sur un résultat souvent nul | Oui | Directe | Particuliers, amortissements réintégrés depuis 2025 | 400 à 800 € |
 | SCI à l'IR | TMI + 17,2 % chez chaque associé | Non | Directe | Particuliers | 0 à 500 € |
-| SCI à l'IS | IS 15 % puis 25 % | Oui | Dividendes taxés 30 % | Professionnelle sur valeur amortie, puis 30 % | 1 000 à 2 000 € |
+| SCI à l'IS | IS 15 % puis 25 % | Oui | Dividendes taxés 31,4 % | Professionnelle sur valeur amortie, puis 31,4 % | 1 000 à 2 000 € |
 | SAS / SARL de famille | IS (SAS) ou IR sur option (SARL de famille) | Oui | Dividendes ou directe | Selon le régime | 1 000 à 2 500 € |
-| Holding | IS, dividendes des filles quasi exonérés | Sans objet | Deux étages | Titres : 30 % | 1 500 à 3 000 € |
+| Holding | IS, dividendes des filles quasi exonérés | Sans objet | Deux étages | Titres : 31,4 % | 1 500 à 3 000 € |
 
 La grille de décision, à lire de haut en bas et à arrêter à la première ligne qui vous correspond :
 
@@ -169,7 +169,7 @@ La grille de décision, à lire de haut en bas et à arrêter à la première li
 | Vous possédez déjà deux ou trois sociétés et une activité qui dégage du cash | Holding | Faire circuler l'argent entre sociétés sans le sortir, préparer la transmission |
 | Vous ne savez pas | Nom propre, avec une clause de substitution dans l'offre (module 3) | Vous pouvez basculer en SCI avant l'acte sans refaire le compromis |
 
-Deux critères départagent les cas limites. **L'horizon** : à moins de dix ans, le nom propre gagne presque toujours, la fiscalité de sortie de l'IS et les coûts fixes n'étant jamais amortis. **L'usage de l'argent** : si vous vivez des loyers, l'IS est une mauvaise idée, chaque euro sorti coûtant 30 % de plus.
+Deux critères départagent les cas limites. **L'horizon** : à moins de dix ans, le nom propre gagne presque toujours, la fiscalité de sortie de l'IS et les coûts fixes n'étant jamais amortis. **L'usage de l'argent** : si vous vivez des loyers, l'IS est une mauvaise idée, chaque euro sorti coûtant 31,4 % de plus (12,8 % d'impôt et 18,6 % de prélèvements sociaux depuis le 1er janvier 2026).
 
 Thomas, cadre à 30 % de TMI, veut acheter trois biens de plus en dix ans et n'a pas besoin des loyers : SCI à l'IS. Sa sœur Nadia, infirmière à 11 %, achète un studio pour compléter ses revenus : LMNP au réel. Même famille, deux réponses.
 
@@ -183,10 +183,12 @@ Une société civile immobilière est un contrat par lequel au moins deux person
 
 Ce que la SCI ne change pas : votre responsabilité. Chaque associé répond des dettes de la société **indéfiniment, à proportion de ses parts** (article 1857 du Code civil), après poursuite infructueuse de la société (article 1858). Un associé à 1 % porte 1 % de la dette ; la banque demande donc en plus une caution personnelle, généralement solidaire, aux associés significatifs.
 
+**L'associé qui sort reste tenu.** La quote-part de chacun se mesure « à la date de l'exigibilité ou au jour de la cessation des paiements » (article 1857). Vendre ses parts n'efface donc pas le passé : l'ancien associé répond encore, à proportion des parts qu'il détenait, des dettes devenues exigibles pendant qu'il était associé. La Cour de cassation l'a rappelé le 6 juin 2024 (3e chambre civile, pourvoi n° 23-10.526) : la cession ne libère pas le cédant. Sa caution personnelle est un engagement distinct, pris envers la banque : elle continue tant que la banque n'en a pas donné mainlevée par écrit, quel que soit le nouveau propriétaire des parts. Deux réflexes à la sortie : faire arrêter un état des dettes de la société à la date de la cession, annexé à l'acte, et négocier la mainlevée de la caution avec la banque avant de signer, pas après.
+
 ### 4.2 Associés et capital
 
 - **Deux associés minimum**, personnes physiques ou morales. Un **mineur** peut être associé, représenté par ses parents, mais ne peut pas être gérant. La répartition est libre : 50/50, 99/1, 60/20/20.
-- **Capital libre** : 1 € suffit juridiquement, mais affiche à la banque une société sans fonds propres. L'usage est un capital modeste (100 à 1 000 €) et les frais de notaire apportés en **compte courant d'associé** (un prêt de l'associé à la société, remboursable sans impôt). Un capital variable évite une modification des statuts à chaque mouvement ; un capital élevé réduit la plus-value en cas de revente des parts.
+- **Capital libre** : 1 € suffit juridiquement, mais affiche à la banque une société sans fonds propres. L'usage est un capital modeste (100 à 1 000 €) et les frais de notaire apportés en **compte courant d'associé** (un prêt de l'associé à la société, remboursable sans impôt). Un capital variable évite une modification des statuts à chaque mouvement ; un capital élevé réduit la plus-value en cas de revente des parts. Nuance sur le capital variable (articles L. 231-1 et suivants du Code de commerce, ouverts aux sociétés qui ne sont pas des sociétés anonymes) : la clause figure dans les statuts, la mention « à capital variable » doit apparaître sur tous les documents que la société adresse aux tiers (article L. 231-2), et les statuts fixent un capital plancher qui ne peut être inférieur au dixième du capital statutaire (article L. 231-5), complété en pratique par un plafond. Rien n'est donc dissimulé, et tous les banquiers ne connaissent pas ce mécanisme : prévoyez de l'expliquer.
 
 ### 4.3 Les statuts : les clauses qui comptent
 
@@ -194,12 +196,24 @@ Un modèle gratuit convient pour un couple avec un studio ; au-delà, faites rel
 
 | Clause | Ce qu'elle règle | Le défaut à éviter |
 |---|---|---|
-| Gérance | Qui signe, pour quels montants, qui révoque le gérant | Une gérance révocable à la majorité simple quand vous êtes minoritaire |
+| Gérance | Qui signe, pour quels montants, qui nomme et révoque le gérant. Il peut être désigné dans les statuts, par un acte distinct ou par une décision des associés (article 1846) | Une gérance révocable à la majorité simple quand vous êtes minoritaire |
+| Répartition du résultat | La part de chaque associé dans les bénéfices et les pertes, qui peut différer de sa part dans le capital (article 1844-1) | Une clause léonine, ou une répartition inégale sans contrepartie et jamais expliquée |
 | Agrément | Qui peut entrer dans la société par achat ou donation de parts | Par défaut, l'unanimité est exigée pour les tiers (article 1861) ; prévoir le cas des héritiers et du conjoint |
 | Démembrement | Qui vote quand les parts sont démembrées entre usufruitier et nu-propriétaire | Sans clause, le nu-propriétaire vote, sauf sur l'affectation des bénéfices (article 1844, rédaction de 2019) |
 | Décisions | Majorité par têtes ou par parts, quorum, décisions à l'unanimité | « Toutes les décisions à l'unanimité » bloque la société au premier désaccord |
 | Comptes courants | Rémunération, remboursement, blocage pendant le prêt | La banque exigera souvent une clause de blocage |
 | Dissolution et retrait | Comment un associé sort, comment ses parts sont évaluées | Sans méthode d'évaluation, c'est l'expert judiciaire (article 1843-4) |
+
+**Gérant nommé hors des statuts.** Quand le gérant est désigné par un acte distinct ou par une décision d'assemblée, en changer ne demande pas de modifier les statuts : un procès-verbal suffit. Cela simplifie la vie de la société, cela n'apporte aucune discrétion. Le changement se publie dans un support d'annonces légales et se déclare sur le guichet unique dans le mois, puis le greffe l'insère au Bodacc (fiche « Changer le dirigeant de la société », entreprendre.service-public.gouv.fr, vérifiée en septembre 2025). La banque, comme n'importe qui, lit le nom du gérant sur l'extrait d'immatriculation.
+
+**Répartir le résultat autrement que le capital.** Par défaut, chacun reçoit les bénéfices et supporte les pertes à proportion de sa part dans le capital ; les statuts peuvent en décider autrement (article 1844-1 du Code civil). Élodie et Karim détiennent 50 % chacun ; Élodie assure seule la gestion et les statuts lui attribuent 60 % des bénéfices. Quatre limites :
+
+- la **clause léonine** est réputée non écrite : celle qui donne à un associé tous les profits, l'exonère de toutes les pertes, l'exclut totalement des profits ou lui fait supporter toutes les pertes (article 1844-1, alinéa 2) ;
+- à l'IR, chaque associé est imposé sur la part de bénéfice correspondant à ses droits (article 8 du CGI). Une répartition différente du pacte social n'est retenue par l'administration que si elle résulte d'un acte ou d'une convention **antérieur à la clôture de l'exercice** ; une convention postérieure ou occulte ne lui est pas opposable (BOFiP, BOI-BIC-CHAMP-70-20-10-20, § 20 à 70). On ne choisit donc pas en avril qui déclarera le résultat de l'année passée ;
+- la responsabilité aux dettes, elle, ne bouge pas : elle reste proportionnelle aux parts dans le **capital** (article 1857). Avec 50 % des parts et 40 % des bénéfices, Karim répond toujours de 50 % des dettes ;
+- une répartition inégale sans contrepartie réelle (travail, apport en compte courant, risque supporté) entre proches peut être analysée comme une libéralité, avec les droits de donation du chapitre 10. Le risque dépend des faits : écrivez la contrepartie dans les statuts.
+
+La banque reçoit les statuts et lit cette clause ; soyez prêt à l'expliquer. C'est une clause à faire rédiger par un notaire ou un avocat, pas à recopier d'un modèle.
 
 ### 4.4 Les formalités et le coût
 
@@ -225,6 +239,8 @@ Julien et sa sœur Inès achètent un immeuble de trois logements loués vides. 
 
 La SCI à l'IS tient une comptabilité commerciale et calcule un résultat : loyers, moins charges, moins intérêts, moins amortissements. Elle paie l'impôt sur les sociétés sur ce résultat : **15 % jusqu'à 42 500 € de bénéfice** (article 219 I b du CGI, sous condition de capital détenu à 75 % au moins par des personnes physiques), **25 % au-delà** (taux 2026). Pas de prélèvements sociaux sur ce résultat. Les déficits se reportent sans limite de durée sur les bénéfices futurs.
 
+Un point change par rapport au nom propre : à l'IS, un loyer est imposé quand il est **acquis**, pas quand il est encaissé. Les loyers rémunèrent une prestation continue et se rattachent à l'exercice au fur et à mesure de son exécution (article 38, 2 bis du CGI ; BOFiP, BOI-BIC-BASE-20-10, § 140). Un loyer impayé reste donc un produit imposable tant qu'il n'a pas été provisionné comme créance douteuse ou constaté en perte, ce qui suppose des démarches de recouvrement à justifier (écritures à voir avec votre expert-comptable).
+
 Ce qu'elle déduit, en plus de ce que déduit un particulier au réel : les **amortissements** (mêmes règles qu'au chapitre 2 : terrain exclu, bâti par composants sur 25 à 40 ans, travaux sur 10 à 15 ans, mobilier sur 5 à 10 ans), les **frais d'acquisition** passés en charge l'année de l'achat, la rémunération éventuelle du gérant, et deux taxes qui lui sont propres :
 
 - la **contribution sur les revenus locatifs (CRL)** : 2,5 % des loyers des immeubles achevés depuis plus de quinze ans, due par les personnes morales à l'IS (article 234 nonies du CGI), avec une exonération lorsque le loyer annuel d'un local ne dépasse pas 1 830 € et pour les locations soumises à la TVA. Une SCI à l'IR dont tous les associés sont des personnes physiques n'y est pas soumise ; le passage à l'IS la déclenche ;
@@ -232,11 +248,18 @@ Ce qu'elle déduit, en plus de ce que déduit un particulier au réel : les **am
 
 ### 5.2 Sortir l'argent : dividendes, réserve, compte courant
 
-Le résultat après IS appartient à la société. Pour le mettre dans votre poche, il faut distribuer un **dividende**, soumis à la **flat tax de 30 %** (12,8 % d'impôt et 17,2 % de prélèvements sociaux, article 200 A du CGI), ou sur option au barème après abattement de 40 % (article 158-3-2°), intéressant seulement aux TMI 0 et 11 %. Sur 100 € de bénéfice, il reste 85 € après IS à 15 %, puis 59,50 € après flat tax : **40,5 %** d'imposition globale, 47,5 % au taux de 25 %. C'est le « second étage » de l'IS, rarement montré par ceux qui la vendent comme une baguette magique.
+Le résultat après IS appartient à la société. Pour le mettre dans votre poche, il faut distribuer un **dividende**, soumis à la **flat tax de 31,4 %** (prélèvement forfaitaire unique, article 200 A du CGI ; 30 % jusqu'en 2025), ou sur option au barème après abattement de 40 % (article 158-3-2°), intéressant seulement aux TMI 0 et 11 %. Sur 100 € de bénéfice, il reste 85 € après IS à 15 %, puis 58,31 € après flat tax : **41,7 %** d'imposition globale, 48,6 % au taux de 25 %. C'est le « second étage » de l'IS, rarement montré par ceux qui la vendent comme une baguette magique.
 
 La réserve légale (5 % du bénéfice chaque année jusqu'à 10 % du capital) est une obligation des sociétés commerciales (article L. 232-10 du Code de commerce). Elle ne s'impose pas à une SCI sauf clause statutaire ; avec un capital de 1 000 €, elle est de toute façon anecdotique (à vérifier avec votre comptable).
 
 Les sommes que vous avez prêtées à la société en **compte courant d'associé** (apport initial, mobilier payé de votre poche) reviennent en revanche sans aucun impôt. C'est la première source de liquidités d'une SCI à l'IS bien montée.
+
+Quatre précisions sur le compte courant, à connaître avant d'en faire un outil :
+
+- **Il est remboursable à tout moment**, sauf convention ou clause statutaire contraire : c'est le principe retenu par la Cour de cassation (chambre commerciale, 24 juin 1997, pourvoi n° 95-20.056, solution reprise depuis). Un associé peut donc réclamer son avance le jour où la société en a le plus besoin. Dès qu'il y a un associé tiers, ou même familial, signez une convention de compte courant qui prévoit un blocage ou un préavis.
+- **La banque passe avant.** Elle demande souvent le blocage des comptes courants pendant la durée du prêt, et parfois une cession d'antériorité : l'associé accepte de n'être remboursé qu'après elle. Lisez l'offre de prêt avant de compter sur ce remboursement.
+- **Les intérêts versés à l'associé ne sont déductibles que sous deux conditions** (article 39, 1, 3° du CGI) : un capital entièrement libéré, et un taux plafonné à la moyenne des taux bancaires publiée chaque trimestre. Le plafond est de **4,33 %** pour les exercices de douze mois clos entre le 30 juin et le 29 septembre 2026 (BOFiP, BOI-BIC-CHG-50-50-30, mise à jour du 5 août 2026), après 4,55 % pour un exercice calé sur l'année civile 2025 ; le taux des clôtures suivantes n'était pas encore publié au BOFiP à la date du cours. L'excédent n'est pas déductible. Exemple : une SCI qui clôt le 30 juin 2026 rémunère à 6 % un compte courant de 40 000 €, soit 2 400 € d'intérêts. Elle en déduit 40 000 × 4,33 % = 1 732 € et réintègre 668 €, soit 100 € d'IS à 15 %. L'associé, lui, est imposé sur la totalité de ce qu'il reçoit, en revenus de capitaux mobiliers : au prélèvement forfaitaire de 31,4 % en 2026 (12,8 % d'impôt et 18,6 % de prélèvements sociaux depuis le 1er janvier 2026), il laisse 754 € et garde 1 646 €.
+- **Un prêt se déclare.** Les contrats de prêt d'un principal supérieur à **5 000 €** se déclarent sur le formulaire n° 2062 (article 242 ter du CGI ; seuil fixé par l'article 23 L de l'annexe IV, en vigueur depuis le 27 septembre 2020). L'administration applique cette obligation aux comptes d'associés, par une déclaration unique à l'ouverture du compte (BOFiP, BOI-RPPM-PVBMI-40-30-65, § 230). Qui la dépose et à quelle date dépend de votre situation : à faire confirmer par votre expert-comptable.
 
 ### 5.3 Le cash trap
 
@@ -248,7 +271,7 @@ Les travaux s'amortissent sur dix ans, les frais de notaire passent la première
 
 ### 5.5 La double imposition à la revente
 
-C'est la vraie différence avec le nom propre. Un particulier calcule sa plus-value sur le prix d'achat majoré des forfaits (chapitre 8) et bénéficie d'abattements avec le temps. Une SCI à l'IS calcule sa plus-value sur la **valeur nette comptable** : prix d'achat moins les amortissements déduits. Plus vous avez amorti, plus la plus-value est grosse, sans aucun abattement pour durée de détention. Elle est imposée à l'IS (15 puis 25 %). Puis, pour récupérer l'argent, vous distribuez : flat tax de 30 % sur tout ce qui dépasse vos apports.
+C'est la vraie différence avec le nom propre. Un particulier calcule sa plus-value sur le prix d'achat majoré des forfaits (chapitre 8) et bénéficie d'abattements avec le temps. Une SCI à l'IS calcule sa plus-value sur la **valeur nette comptable** : prix d'achat moins les amortissements déduits. Plus vous avez amorti, plus la plus-value est grosse, sans aucun abattement pour durée de détention. Elle est imposée à l'IS (15 puis 25 %). Puis, pour récupérer l'argent, vous distribuez : flat tax de 31,4 % sur tout ce qui dépasse vos apports.
 
 ### 5.6 La SCI dans le temps : l'exemple de Julien et Inès sur quinze ans
 
@@ -275,10 +298,10 @@ Revente à l'année 15, 350 000 €, capital restant dû 111 600 € :
 | IS : 42 500 × 15 % + 135 000 × 25 % | 40 125 € |
 | Trésorerie dans la société après vente, remboursement et IS | 207 700 € |
 | Remboursement du compte courant (sans impôt) | 24 000 € |
-| Boni distribué 183 700 € × 30 % | 55 100 € |
-| Net dans la poche des associés | 152 600 € |
+| Boni distribué 183 700 € × 31,4 % | 57 700 € |
+| Net dans la poche des associés | 150 000 € |
 
-Au total, 95 000 € d'impôt sur la vente. Le même immeuble en nom propre : prix d'acquisition majoré 300 000 × 1,075 + 15 % = 367 500 €, supérieur au prix de vente, **plus-value nulle, impôt zéro**. En contrepartie, le nom propre aurait payé, à 30 % de TMI, 6 000 à 8 000 € par an d'impôt sur les loyers pendant quinze ans. La SCI à l'IS ne supprime pas l'impôt : elle le déplace à la sortie. Elle n'a de sens que si l'on ne sort pas, ou très tard.
+Au total, 97 800 € d'impôt sur la vente. Le même immeuble en nom propre : prix d'acquisition majoré 300 000 × 1,075 + 15 % = 367 500 €, supérieur au prix de vente, **plus-value nulle, impôt zéro**. En contrepartie, le nom propre aurait payé, à 30 % de TMI, 6 000 à 8 000 € par an d'impôt sur les loyers pendant quinze ans. La SCI à l'IS ne supprime pas l'impôt : elle le déplace à la sortie. Elle n'a de sens que si l'on ne sort pas, ou très tard.
 
 Transmission : les parts d'une SCI endettée valent peu (actif moins passif). Donner des parts les premières années coûte très peu de droits (chapitre 10). C'est le vrai avantage de la SCI, IR ou IS, sur le nom propre.
 
@@ -313,6 +336,8 @@ Une holding est une société (souvent une SAS ou une SASU à l'IS) dont l'actif
 - **Intégration fiscale** (article 223 A du CGI) : si la holding détient au moins **95 %** des filiales, le groupe ne dépose qu'un résultat : les déficits d'une société compensent les bénéfices d'une autre, et les dividendes internes ne supportent qu'une quote-part de 1 %. Attention : en consolidant les bénéfices, on peut dépasser le seuil de 42 500 € du taux réduit, qui s'apprécie une fois pour le groupe.
 - **Conventions de trésorerie et prêts intra-groupe** : la holding peut prêter à ses filiales et inversement sans enfreindre le monopole bancaire (article L. 511-7 3° du Code monétaire et financier), à condition d'une convention écrite et d'un taux d'intérêt normal (déductibilité plafonnée, article 39-1-3° du CGI). C'est l'outil qui permet d'apporter 30 000 € à une SCI nouvelle avec la trésorerie d'une ancienne.
 - **Apport-cession** (article 150-0 B ter du CGI) : vous apportez les titres d'une société à votre holding au lieu de les vendre ; la plus-value est mise **en report**. Si la holding revend les titres dans les trois ans, elle doit **réinvestir 60 % du prix dans les deux ans** dans une activité économique. Point crucial pour l'immobilier : la gestion d'un patrimoine immobilier locatif est **exclue** des réinvestissements éligibles. Et pour les parts d'une SCI à l'IR, c'est le régime des plus-values immobilières (article 150 UB) qui s'applique, pas le report du 150-0 B ter (à vérifier avec un fiscaliste avant tout apport).
+
+**Ce que la holding n'obtient pas sur l'immobilier.** Quand une société à l'IS revend des titres de participation détenus depuis au moins deux ans, la plus-value est imposée à 0 %, sauf une quote-part de frais et charges de 12 % de son montant brut (article 219 I a quinquies du CGI). Ce régime de faveur exclut les titres de sociétés à **prépondérance immobilière** non cotées, c'est-à-dire celles dont l'actif est composé à plus de 50 % d'immeubles non affectés à leur propre exploitation : leur plus-value entre en totalité dans le résultat, au taux normal de l'IS (article 219 I a sexies-0 bis ; BOFiP, BOI-IS-BASE-20-20-10-30, § 1 et 30). Sur 100 000 € de plus-value, une holding qui revend les titres d'une filiale de conseil est imposée sur 12 000 €, soit 3 000 € d'IS à 25 %. Si elle revend les parts de sa SCI à l'IS, elle est imposée sur 100 000 €, soit 25 000 € au même taux. La holding fait circuler les loyers ; elle n'allège pas la sortie de l'immobilier.
 
 ### 7.2 Pour qui c'est utile, pour qui c'est inutile
 
@@ -353,10 +378,34 @@ Pour une SCI à l'IS ou une SAS : plus-value = prix de vente − valeur nette co
 Vendre les parts d'une SCI au lieu de son immeuble change les droits d'enregistrement et ce que l'acheteur récupère.
 
 - **Vendeur de parts de SCI à l'IR** : plus-value immobilière des particuliers (article 150 UB), mêmes abattements. Prix d'acquisition des parts majoré, le cas échéant, des apports en compte courant repris (à vérifier).
-- **Vendeur de parts de SCI à l'IS** : plus-value sur valeurs mobilières (article 150-0 A), flat tax de 30 %, sans abattement pour durée (sauf titres acquis avant 2018 avec option pour le barème).
+- **Vendeur de parts de SCI à l'IS** : plus-value sur valeurs mobilières (article 150-0 A), flat tax de 31,4 %, sans abattement pour durée (sauf titres acquis avant 2018 avec option pour le barème).
 - **Acheteur** : droits d'enregistrement de **5 %** sur les parts de toute société à **prépondérance immobilière** (actif composé à plus de 50 % d'immeubles, article 726 I 2° du CGI), SCI ou SAS. Pour les actions d'une SAS qui n'est pas à prépondérance immobilière, 0,1 %. Il n'y a pas de « frais de notaire » au sens habituel, mais l'acheteur reprend la société avec son passé : dettes, contentieux, et, à l'IS, les amortissements déjà déduits qui préparent une plus-value future.
 
 Exemple. Thomas a acheté 200 000 € en 2016, via une SCI à l'IR, un immeuble qu'il vend 280 000 € en 2026 (dix ans). Plus-value : 280 000 − (200 000 + 15 000 de forfait frais + 30 000 de forfait travaux) = 35 000 €. Abattement IR de 30 % : base 24 500 €, impôt 4 655 €. Abattement PS de 8,25 % : base 32 113 €, prélèvements 5 523 €. Total vendeur : **10 178 €**. L'acheteur de l'immeuble paie environ 22 400 € de frais de notaire. S'il achète les parts : même impôt pour Thomas, mais l'acheteur ne paie que 5 % de la valeur des parts, soit 5 % × (280 000 − 120 000 de capital restant dû) = **8 000 €**. L'économie est réelle, et elle a un prix : un audit de la société, une banque réticente à financer des parts, et le risque de reprendre un passif que personne n'a vu.
+
+**Céder des parts entre associés.** Un associé sort, un autre rachète : c'est la cession la plus fréquente, et elle suit quatre règles.
+
+- **Le prix.** Valeur d'une part = (valeur vénale des immeubles + trésorerie − dettes, comptes courants d'associés compris) / nombre de parts. Exemple : une SCI de 1 000 parts possède un immeuble estimé 400 000 €, 12 000 € de trésorerie, un capital restant dû de 230 000 € et 30 000 € de comptes courants. Actif net : 152 000 €, soit **152 € la part**. Léa cède ses 300 parts à son frère Hugo : 45 600 €. Si la SCI est à l'IS, un acheteur averti retranche aussi l'impôt latent : avec une valeur nette comptable de 310 000 €, la plus-value en germe est de 90 000 €, soit 22 500 € d'IS à 25 % ; la part tombe à 129,50 € et le lot de Léa à 38 850 €. Le compte courant de Léa, lui, se traite à part : il est remboursé ou racheté en plus du prix des parts.
+- **Le coût.** L'acquéreur paie les droits d'enregistrement de 5 % (article 726 I 2° du CGI), ici 2 280 € sur 45 600 € ; ils sont à sa charge sauf clause contraire de l'acte (article 1712 du CGI). Le cédant est imposé sur sa plus-value selon le régime de la société, IR ou IS, comme décrit au début de ce chapitre.
+- **Le prix d'ami.** Une cession gratuite, ou à un prix nettement inférieur à la valeur, entre proches, est une donation pour la partie non payée : droits de donation (chapitre 10) et risque de redressement si elle n'est pas déclarée comme telle. Gardez la trace du calcul du prix.
+- **La publicité.** La cession se constate par écrit et n'est opposable aux tiers qu'après publication au registre du commerce et des sociétés (article 1865 du Code civil). Elle est donc visible, y compris de la banque. Beaucoup de contrats de prêt imposent d'ailleurs de l'informer, ou d'obtenir son accord, avant tout changement d'associé (chapitre 7) : relisez le vôtre et écrivez à la banque avant de signer. Et le cédant reste tenu du passé (section 4.1).
+
+**La garantie d'actif et de passif.** Acheter des parts, c'est reprendre toute l'histoire de la société : dettes, litiges en cours, redressements fiscaux à venir sur des années déjà closes. La garantie d'actif et de passif est la clause par laquelle le vendeur prend à sa charge le passif né avant la cession et révélé après. Rien n'est fixé par la loi, tout se négocie : sa durée (souvent calée sur les délais de reprise de l'administration, section 11.1), son plafond, une franchise, et le séquestre d'une partie du prix pour qu'elle soit réellement payée. Une garantie sans séquestre ne vaut que la solvabilité du vendeur. C'est un travail d'avocat, pas de modèle téléchargé.
+
+### 8.4 Faire passer dans sa SCI un bien détenu en nom propre
+
+On ne « bascule » pas un bien dans une société. Vous êtes une personne, la SCI en est une autre : pour que le bien change de propriétaire, il faut une vente ou un apport, par acte notarié. Dans les deux cas, c'est une cession, et elle coûte comme une vente à un tiers.
+
+| Ce que cela déclenche | Détail |
+|---|---|
+| Votre plus-value | Imposée au régime des particuliers (section 8.1), calculée sur la valeur réelle du bien au jour de la cession, même si aucun argent ne sort du cercle familial |
+| Les droits et frais d'acte | Pour une vente, les mêmes que pour n'importe quel acheteur, autour de 7 à 8 % dans l'ancien. Pour un apport, le régime dépend de la société et de la reprise du prêt : un apport avec reprise de passif est taxé comme une vente pour la part de dette reprise (à faire chiffrer par le notaire) |
+| Le prêt | Il ne suit pas le bien. Il faut le rembourser, ou obtenir l'accord écrit de la banque pour le transférer, ce qui revient à une nouvelle demande : nouveau taux, nouvelle garantie |
+| Le regard de l'administration | Un prix écarté de la valeur de marché, dans un sens ou dans l'autre, expose à un redressement (insuffisance de prix, ou abus de droit si l'opération n'a qu'un but fiscal, section 4.5) |
+
+Exemple. Nadia a acheté un T3 150 000 € en 2018, en nom propre. Il vaut 220 000 € en 2026 et elle veut le « mettre » dans sa SCI à l'IS. Plus-value : 220 000 − (150 000 + 11 250 de forfait frais + 22 500 de forfait travaux) = 36 250 €. Après huit ans de détention, l'abattement est de 18 % pour l'impôt et de 4,95 % pour les prélèvements sociaux : 5 648 € d'impôt et 5 926 € de prélèvements. La SCI paie environ 16 500 € de frais d'acte. Total : près de **28 000 €**, plus le coût du nouveau prêt, pour un bien qu'elle possédait déjà.
+
+L'opération a parfois un sens, quand elle sert à dégager de la trésorerie : la SCI emprunte pour vous payer le prix, et vous récupérez le capital que vous aviez remboursé. Elle se compare alors à un prêt hypothécaire sur le même bien (module 5, chapitre 11), qui donne le même résultat sans plus-value ni droits. Dans tous les autres cas, la règle est simple : ce qui est en nom propre y reste, et les achats suivants se font dans la société.
 
 ## 9. TVA : quand elle s'applique en location
 
@@ -427,32 +476,18 @@ Mehdi a loué un meublé quatre ans sans rien déclarer, 9 000 € par an. Activ
 
 Les contrôles sont ciblés par croisement de fichiers. Les signaux fréquents en immobilier : une **incohérence entre déclarations** (loyers déclarés par le locataire pour une aide au logement et absents chez le bailleur, déclaration d'occupation contredite par un bail, revenus transmis par les plateformes de location depuis 2020) ; une **SCI sans comptabilité ni assemblées** ; un **meublé déclaré en revenus fonciers** ou l'inverse ; des **déficits fonciers répétés** sans factures ; une **plus-value** sous-estimée par rapport aux bases de ventes. Le meilleur bouclier : déclarer dans la bonne catégorie, garder toutes les factures, poser un rescrit quand le doute porte sur une somme importante.
 
-### 8.4 Faire passer dans sa SCI un bien détenu en nom propre
-
-On ne « bascule » pas un bien dans une société. Vous êtes une personne, la SCI en est une autre : pour que le bien change de propriétaire, il faut une vente ou un apport, par acte notarié. Dans les deux cas, c'est une cession, et elle coûte comme une vente à un tiers.
-
-| Ce que cela déclenche | Détail |
-|---|---|
-| Votre plus-value | Imposée au régime des particuliers (section 8.1), calculée sur la valeur réelle du bien au jour de la cession, même si aucun argent ne sort du cercle familial |
-| Les droits et frais d'acte | Pour une vente, les mêmes que pour n'importe quel acheteur, autour de 7 à 8 % dans l'ancien. Pour un apport, le régime dépend de la société et de la reprise du prêt : un apport avec reprise de passif est taxé comme une vente pour la part de dette reprise (à faire chiffrer par le notaire) |
-| Le prêt | Il ne suit pas le bien. Il faut le rembourser, ou obtenir l'accord écrit de la banque pour le transférer, ce qui revient à une nouvelle demande : nouveau taux, nouvelle garantie |
-| Le regard de l'administration | Un prix écarté de la valeur de marché, dans un sens ou dans l'autre, expose à un redressement (insuffisance de prix, ou abus de droit si l'opération n'a qu'un but fiscal, section 4.5) |
-
-Exemple. Nadia a acheté un T3 150 000 € en 2018, en nom propre. Il vaut 220 000 € en 2026 et elle veut le « mettre » dans sa SCI à l'IS. Plus-value : 220 000 − (150 000 + 11 250 de forfait frais + 22 500 de forfait travaux) = 36 250 €. Après huit ans de détention, l'abattement est de 18 % pour l'impôt et de 4,95 % pour les prélèvements sociaux : 5 648 € d'impôt et 5 926 € de prélèvements. La SCI paie environ 16 500 € de frais d'acte. Total : près de **28 000 €**, plus le coût du nouveau prêt, pour un bien qu'elle possédait déjà.
-
-L'opération a parfois un sens, quand elle sert à dégager de la trésorerie : la SCI emprunte pour vous payer le prix, et vous récupérez le capital que vous aviez remboursé. Elle se compare alors à un prêt hypothécaire sur le même bien (module 5, chapitre 11), qui donne le même résultat sans plus-value ni droits. Dans tous les autres cas, la règle est simple : ce qui est en nom propre y reste, et les achats suivants se font dans la société.
-
 ## Les pièges et idées reçues du module
 
 1. **Le micro, par simplicité.** Avec un crédit, le réel gagne presque toujours, en nue comme en meublé. Le calcul prend dix minutes.
 2. **Des travaux pour l'impôt.** Le déficit foncier rembourse au mieux 35 % de la facture à 30 % de TMI. Les travaux se décident sur le loyer et la valeur, pas sur la déduction.
 3. **Le LMNP sans fin.** Les amortissements ont une fin, et depuis 2025 la revente les rattrape. Il reste le meilleur régime du nom propre pour la rente, à condition de le savoir.
-4. **La SCI à l'IS pour un studio.** Un comptable chaque année, une CRL, un cash trap et 40 % d'imposition sur ce que vous sortez. Elle sert à accumuler, pas à compléter un salaire.
+4. **La SCI à l'IS pour un studio.** Un comptable chaque année, une CRL, un cash trap et près de 42 % d'imposition sur ce que vous sortez. Elle sert à accumuler, pas à compléter un salaire.
 5. **Amortir vite.** Cela n'économise rien pendant le crédit et aggrave la plus-value à la sortie.
 6. **La holding dès le premier bien.** Elle coûte plus qu'elle ne rapporte tant qu'il n'y a pas plusieurs sociétés et du cash à faire circuler.
 7. **Vendre les parts pour « éviter les frais de notaire ».** Les droits tombent à 5 %, mais l'acheteur reprend tout le passé de la société et la banque suit rarement.
 8. **La SCI qui dort.** Pas de comptes, pas d'assemblées, loyers sur le compte personnel : c'est une SCI fictive aux yeux du fisc, et un redressement à 80 %.
 9. **« Basculer » son bien dans sa SCI.** C'est une vente : plus-value, frais d'acte, prêt à refaire. Les prochains achats dans la société, pas les anciens.
+10. **« C'est déductible, donc c'est gratuit. »** Une dépense de 100 € déductible à l'IS économise 15 € d'impôt, ou 25 € au-delà de 42 500 € de bénéfice (taux 2026). Les 85 ou 75 € restants sortent bien de la trésorerie. Et charger la société pour ne jamais payer d'IS produit des bilans faibles : ce sont eux que la banque lira au prêt suivant.
 
 ## Pour aller plus loin
 
@@ -462,3 +497,7 @@ L'opération a parfois un sens, quand elle sert à dégager de la trésorerie : 
 - Articles 219, 234 nonies et 1447 du CGI (taux d'IS, CRL, champ de la CFE) ; BOFiP, série IF-CFE-10-20-30.
 - Articles 145, 216, 223 A et 150-0 B ter du CGI (régime mère-fille, intégration fiscale, apport-cession) ; article L. 511-7 du Code monétaire et financier (prêts intra-groupe).
 - Articles 150 U à 150 VH, 726, 669, 777, 779, 787 B et 1727 à 1729 du CGI ; articles L. 10, L. 57, L. 64, L. 64 A, L. 80 B et L. 169 du Livre des procédures fiscales ; fiches « Plus-value immobilière » et « Donation » sur impots.gouv.fr et service-public.fr ; simulateur des droits de donation sur notaires.fr.
+- Vie de la SCI et cession de parts : articles 1844-1, 1846, 1857 et 1865 du Code civil ; articles L. 231-1 à L. 231-8 du Code de commerce (capital variable) ; Cour de cassation, 3e chambre civile, 6 juin 2024, n° 23-10.526 (associé cédant) et chambre commerciale, 24 juin 1997, n° 95-20.056 (remboursement du compte courant), sur legifrance.gouv.fr ; BOFiP, BOI-BIC-CHAMP-70-20-10-20 (répartition des résultats entre associés) ; fiche « Changer le dirigeant de la société » sur entreprendre.service-public.gouv.fr.
+- Compte courant et résultat à l'IS : articles 38 (2 bis) et 39 (1, 3°) du CGI ; BOFiP, BOI-BIC-BASE-20-10 (créances acquises), BOI-BIC-CHG-50-50-20 (libération du capital) et BOI-BIC-CHG-50-50-30 (taux plafond, actualisé chaque trimestre) ; article 242 ter du CGI, article 23 L de son annexe IV et BOFiP, BOI-RPPM-PVBMI-40-30-65 (déclaration des contrats de prêt, formulaire n° 2062 sur impots.gouv.fr) ; fiche « Impôt sur le revenu - Revenus d'épargne et de placement » sur service-public.gouv.fr (prélèvement forfaitaire 2026).
+- Prélèvement forfaitaire à 31,4 % : loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026, article 12 (prélèvements sociaux sur les revenus de placements portés à 18,6 % au 1er janvier 2026 ; revenus fonciers et plus-values immobilières maintenus à 17,2 %), sur legifrance.gouv.fr ; fiches « Impôt sur le revenu - Revenus d'épargne et de placement » (F34913) et « Impôt sur le revenu - Plus-value sur valeurs mobilières » (F21618) sur service-public.gouv.fr, vérifiées le 15 avril 2026 ; articles 150-0 A et 200 A du CGI.
+- Cession de titres par une holding : article 219 I a quinquies et a sexies-0 bis du CGI ; BOFiP, BOI-IS-BASE-20-20-10-10 et BOI-IS-BASE-20-20-10-30 (titres de participation, sociétés à prépondérance immobilière) ; article 1712 du CGI (charge des droits d'enregistrement).

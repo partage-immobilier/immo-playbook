@@ -15,7 +15,7 @@
 - Deux associés minimum, mineur possible, capital libre, responsabilité indéfinie proportionnelle aux parts. Statuts : gérance, agrément, démembrement, majorités, sortie. Coût : 300 à 1 500 €.
 - IR par défaut ; option IS révocable pendant 5 exercices puis définitive (à vérifier). Meublé habituel = IS d'office. SCI fictive et abus de droit (articles L. 64 et L. 64 A du LPF) : majoration 40 à 80 %.
 
-**SCI à l'IS** : IS 15 % jusqu'à 42 500 € puis 25 % ; dividendes flat tax 30 % (40,5 % global) ; CRL 2,5 % sur immeubles > 15 ans ; CFE seulement en meublé ; falaise de l'année 11 ; plus-value sur valeur nette comptable puis flat tax ; cash trap.
+**SCI à l'IS** : IS 15 % jusqu'à 42 500 € puis 25 % ; dividendes flat tax 31,4 % (41,7 % global) ; CRL 2,5 % sur immeubles > 15 ans ; CFE seulement en meublé ; falaise de l'année 11 ; plus-value sur valeur nette comptable puis flat tax ; cash trap.
 
 **SARL de famille** (article 239 bis AA) : meublé à l'IR en famille proche, LMNP conservé par associé, gérant majoritaire à la SSI. **Holding** : mère-fille 5 % de détention, quote-part 5 % (articles 145 et 216) ; intégration à 95 % (article 223 A) ; apport-cession 150-0 B ter, immobilier passif exclu. Utile seulement à partir de deux ou trois sociétés et de cash à faire circuler.
 

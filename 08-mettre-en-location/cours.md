@@ -164,6 +164,8 @@ Une grille, les mêmes critères pour tous, écrits avant de recevoir le premier
 
 À critères égaux, le premier dossier complet gagne. Écrivez la règle dans vos notes avec la date de chaque dossier : c'est aussi votre défense en cas d'accusation de discrimination.
 
+**Le bruit, dans un immeuble à planchers bois.** Un plancher ancien transmet les pas, les chaises et les voix. Si vous louez plusieurs logements superposés, pensez aux rythmes de vie au moment de proposer un logement plutôt qu'un autre : une personne qui travaille de nuit dort mieux au dernier étage que sous une colocation. Cela se fait en informant, pas en triant : vous dites à chaque candidat ce qu'il en est (plancher bois, voisin du dessous présent en journée) et vous le laissez choisir. Ce n'est jamais un motif pour écarter quelqu'un en raison de ce qu'il est. L'article 1er de la loi du 6 juillet 1989 interdit de refuser une location pour un motif discriminatoire au sens de l'article 225-1 du Code pénal : origine, sexe, situation de famille, grossesse, âge, état de santé, handicap, entre autres. « Pas d'enfants à l'étage » est un refus fondé sur la situation de famille. Et en cas de litige, le candidat n'a qu'à présenter des faits qui laissent supposer la discrimination : c'est à vous de prouver que votre décision était justifiée.
+
 **Ce que je fais, moi.** J'ai refusé des dossiers que l'affectif aurait acceptés : un couple sympathique en période d'essai avec un taux d'effort à 40 %, sans garant. Six mois plus tard, l'un des deux n'avait pas été confirmé. J'applique la grille avant la visite, dans mes réponses aux messages, pour ne pas faire visiter des gens que je ne pourrai pas retenir. Et je vérifie chaque avis d'imposition sur le site des impôts, systématiquement, y compris celui du garant : une fois sur quinze environ, quelque chose ne colle pas.
 
 ## 5. Caution solidaire, GLI, Visale : ce qui se cumule et ce qui ne se cumule pas
@@ -196,6 +198,8 @@ Depuis la loi ALUR, le bail d'habitation (nu ou meublé) suit un contrat type fi
 Annexes obligatoires : le dossier de diagnostics (DPE, électricité et gaz si plus de quinze ans, plomb si avant 1949, risques et pollutions, amiante sur demande, bruit des aéroports), la notice d'information ministérielle, l'état des lieux, l'inventaire du mobilier en meublé, l'extrait du règlement de copropriété sur l'usage des parties communes et privatives, et l'acte de cautionnement s'il y en a un.
 
 Clauses utiles et licites : clause résolutoire (chapitre 7), clause de solidarité en colocation, clause d'indexation, interdiction de sous-louer sans accord écrit (rappel de l'article 8 de la loi), obligation d'assurance habitation avec attestation chaque année. Clauses interdites (article 4 de la loi) : prélèvement automatique obligatoire, renonciation du locataire à ses droits, pénalités de retard forfaitaires, interdiction d'héberger quelqu'un, visites imposées plus de deux heures par jour ouvrable en cas de vente.
+
+**Jouissance paisible et règlement intérieur.** L'article 7 b de la loi oblige le locataire à user paisiblement des locaux, suivant la destination prévue au bail. Une clause peut le rappeler. Dans un immeuble dont vous louez tous les logements, un règlement intérieur annexé à chaque bail peut préciser les règles d'usage, les mêmes pour tous : heures de calme, patins sous les meubles et tapis sur un plancher bois, usage des parties communes, local à poubelles. Il ne crée aucune sanction propre : la clause qui prévoirait une amende ou une pénalité pour infraction au bail ou au règlement intérieur est réputée non écrite (article 4 i). En cas de troubles répétés, vous mettez en demeure par écrit, puis vous saisissez le juge. Même une clause résolutoire ne joue, pour des troubles de voisinage, qu'une fois ces troubles constatés par une décision de justice passée en force de chose jugée (article 4 g).
 
 ### 6.2 L'état des lieux
 
@@ -252,11 +256,21 @@ Sans clause résolutoire dans le bail, il faut demander la résiliation au juge,
 
 **Exemple.** Inès a un locataire qui ne paie pas le loyer de mars (680 €). Appel le 4 mars : « problème de virement », rien ne vient. Relance le 12, mise en demeure le 22, courrier au garant le 25. Commandement de payer le 10 avril. Le locataire paie mars et avril le 15 mai : la clause résolutoire ne joue pas, mais Inès a montré qu'elle réagit, et le garant est informé. Si elle avait attendu juin pour « ne pas braquer », elle aurait eu trois mois d'impayés et le même commandement à faire, avec trois mois de retard sur une procédure d'un an.
 
+**Le départ négocié.** Quand la dette grossit et que le locataire ne pourra visiblement pas la rattraper, une sortie amiable coûte souvent moins cher aux deux parties que douze à vingt-quatre mois de procédure. Vous la proposez par écrit, sans menace : un départ volontaire à une date convenue, contre l'abandon de tout ou partie de la dette, ou une aide au déménagement. Le locataire est libre de refuser, et la procédure suit alors son cours.
+
+L'accord prend la forme d'un protocole signé des deux parties. C'est une transaction au sens de l'article 2044 du Code civil : un contrat écrit par lequel chacun fait une concession pour mettre fin au litige. Il indique le montant de la dette, ce que vous abandonnez, la date de départ, et il subordonne la remise de dette à la remise des clés et à l'état des lieux de sortie. Tant que les clés ne sont pas rendues, la procédure engagée n'est pas retirée.
+
+Avant de transiger, prévenez votre assureur loyers impayés ou Action Logement (Visale), et attendez leur accord écrit. Celui qui vous a indemnisé est subrogé dans vos droits contre le locataire : la part de dette qu'il a payée n'est plus à vous, vous ne pouvez pas l'abandonner à sa place. Et si votre accord le prive de son recours, l'assureur peut être déchargé de sa garantie (article L121-12 du Code des assurances), comme une caution (article 2314 du Code civil). Les conditions de votre contrat disent comment procéder : relisez-les.
+
+La limite est pénale. Changer la serrure, couper l'eau ou l'électricité, sortir les meubles, multiplier les visites et les appels : forcer quelqu'un à quitter le lieu qu'il habite par des manœuvres, des menaces, des voies de fait ou la contrainte, sans décision de justice exécutée avec le concours de l'État, est puni de trois ans d'emprisonnement et de 30 000 € d'amende (article 226-4-2 du Code pénal). Un départ négocié est une proposition, jamais une pression.
+
+**Exemple.** Le locataire de Camille doit quatre mois de loyer, 2 720 €, et vient de perdre son emploi. Elle n'a ni assurance ni Visale sur ce bail. Elle lui écrit : départ sous six semaines, abandon de deux mois de dette, le solde étalé sur dix mois. Il accepte, le protocole est signé, les clés sont rendues le jour de l'état des lieux. Camille renonce à 1 360 € et reloue le mois suivant, au lieu d'une année de procédure à 680 € de loyer perdu par mois.
+
 ### 7.3 Les autres incidents
 
 - **Congé du locataire** : lettre recommandée, remise en main propre contre récépissé ou acte de commissaire de justice. Le préavis court à la réception. Vous pouvez faire visiter deux heures par jour ouvrable. Vous cherchez le remplaçant pendant le préavis, pas après.
 - **Congé du bailleur** : six mois avant le terme en nue, trois en meublé, pour vendre (le locataire est alors prioritaire pour acheter, en nue), reprendre, ou motif légitime et sérieux. Un congé pour vente ou reprise est interdit à l'égard d'un locataire de plus de 65 ans aux ressources modestes, sauf relogement (article 15).
-- **Troubles de voisinage, sous-location sauvage, animaux** : mise en demeure, puis clause résolutoire si le bail la prévoit pour ce motif, sinon juge.
+- **Troubles de voisinage, sous-location sauvage, animaux** : mise en demeure, puis saisine du juge. Une clause résolutoire pour troubles de voisinage ne joue qu'après une décision de justice qui les constate (chapitre 6.1).
 - **Sinistre** : votre assurance propriétaire non occupant (PNO, 100 à 250 € par an, obligatoire en copropriété depuis la loi ALUR) et l'assurance habitation du locataire, dont vous vérifiez l'attestation chaque année.
 
 ## 8. Gestion déléguée ou conciergerie : coût et contrat
@@ -307,7 +321,8 @@ Fiscalement, pour le propriétaire, un logement meublé loué à une société q
 
 ## Pour aller plus loin
 
-- Loi n° 89-462 du 6 juillet 1989, notamment articles 8, 8-1, 15, 17-1, 21, 22, 22-1, 22-2, 23, 24 et 25-3 à 25-11 (meublé), sur legifrance.gouv.fr.
+- Loi n° 89-462 du 6 juillet 1989, notamment articles 1er (discrimination), 4 (clauses réputées non écrites), 7 (obligations du locataire), 8, 8-1, 15, 17-1, 21, 22, 22-1, 22-2, 23, 24 et 25-3 à 25-11 (meublé), sur legifrance.gouv.fr.
+- Départ négocié : article 2044 du Code civil (transaction), article 2314 du Code civil (décharge de la caution), article L121-12 du Code des assurances (subrogation de l'assureur), article 226-4-2 du Code pénal (expulsion sans le concours de l'État) et article 225-1 du même code (critères de discrimination), sur legifrance.gouv.fr.
 - Décret n° 2015-981 du 31 juillet 2015 (liste du mobilier du meublé) et décret n° 2015-1437 du 5 novembre 2015 (pièces justificatives du candidat locataire).
 - Décret n° 87-713 du 26 août 1987 (charges récupérables) et décret n° 87-712 (réparations locatives).
 - Service de vérification des avis d'imposition : impots.gouv.fr (rubrique « Vérifier un avis »), et dossierfacile.logement.gouv.fr.

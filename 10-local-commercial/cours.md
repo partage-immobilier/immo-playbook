@@ -182,6 +182,16 @@ Avant tout calcul, il faut un loyer de marché : ce qu'un preneur paierait aujou
 
 Un local vide, c'est acheter du risque de relocation à prix décoté et le revendre loué au prix d'un rendement de 7 à 8 %. C'est l'opération la plus rentable du local commercial, et la plus dangereuse pour un débutant.
 
+**Occupé : le preneur avant le rendement.** Un rendement affiché ne vaut que si le preneur paie encore dans trois ans. Demandez ses trois derniers bilans, au vendeur ou sur les sites publics quand les comptes sont déposés, et lisez-les comme le fera votre banque :
+
+- **L'excédent brut d'exploitation (EBE)**, en moyenne sur les trois exercices : c'est ce que l'activité dégage une fois le loyer payé, avant amortissements, intérêts et impôt. Il doit encore couvrir les échéances d'emprunt du preneur, et sa rémunération s'il ne se verse pas de salaire. Placez-le en face du loyer : un EBE très petit devant le loyer signifie qu'une légère baisse d'activité suffit à ne plus pouvoir le payer.
+- **L'écart entre résultat net et EBE.** Un résultat net élevé avec un EBE faible vient souvent de produits exceptionnels (une cession, une aide, une reprise de provision), qui ne reviendront pas.
+- **Les capitaux propres.** Négatifs, ils signalent une société qui a perdu plus que ce que ses associés y ont mis.
+
+Aucun de ces signaux n'interdit d'acheter ; chacun se paie sur le prix, par le taux de rendement exigé (chapitre 14). En restauration, ajoutez une vérification matérielle avant l'offre : le conduit d'extraction (chapitre 6). Existe-t-il, sort-il en toiture, la copropriété l'a-t-elle autorisé ?
+
+Nadia étudie des murs loués 18 000 € par an à un restaurant. Résultat net du dernier exercice : 41 000 €. Mais l'EBE moyen sur trois ans est de 9 000 €, et le résultat vient de la vente d'un second établissement. Elle recalcule son prix avec le taux d'un preneur fragile, et fait son offre à ce prix-là.
+
 ### Le rendement et le DSCR
 
 Le rendement brut est le loyer annuel HT divisé par le prix. Il ne sert qu'à trier.
@@ -269,7 +279,7 @@ Les véhicules sont ceux du module 9. Ce qui change en commercial : la TVA, la C
 |---|---|---|---|---|
 | Loyers | Revenus fonciers : barème de l'IR + 17,2 % ; micro-foncier (30 % d'abattement) jusqu'à 15 000 € | Idem, au prorata des parts | IS 15 % jusqu'à 42 500 € de bénéfice puis 25 % (2026), après charges et amortissements | Idem |
 | Amortissement | Non | Non | Oui, murs sur 25 à 40 ans hors terrain | Oui |
-| Sortie de l'argent | Directe | Directe | Dividendes (flat tax 30 %) ou compte courant | Dividendes ou rémunération |
+| Sortie de l'argent | Directe | Directe | Dividendes (flat tax 31,4 % depuis 2026) ou compte courant | Dividendes ou rémunération |
 | Plus-value | Particuliers : 19 % + 17,2 %, exonération d'IR après 22 ans, de prélèvements sociaux après 30 ans | Idem | Professionnelle sur la valeur nette comptable, à l'IS, puis flat tax si distribuée | Idem |
 | CRL 2,5 % | Non | Non si tous les associés sont des personnes physiques | Oui si immeuble de plus de 15 ans, sauf loyers soumis à TVA | Idem |
 | Cession des parts | Sans objet | Droits 5 % | 5 % | 0,1 % |
@@ -284,6 +294,8 @@ La location de locaux nus à usage professionnel est exonérée par défaut (art
 Pourquoi opter : vous récupérez la TVA sur les travaux (20 %) et, si le vendeur a vendu avec TVA (local neuf ou vendeur ayant opté), sur le prix d'achat. Vous facturez le loyer avec 20 % de TVA, que le preneur récupère s'il est assujetti (commerçant, artisan, société). Et vous sortez de la CRL.
 
 Quand ne pas opter : si le preneur ne récupère pas la TVA (profession médicale, association, banque, assurance), elle est pour lui un coût sec de 20 %. Pour un preneur non assujetti, l'option n'est possible que si le bail la mentionne expressément. Un cabinet médical se loue presque toujours hors TVA. Enfin, la location de locaux aménagés et équipés avec services est soumise à la TVA de plein droit : ce n'est plus une location nue.
+
+**Le crédit relais de TVA.** Quand l'achat ou les travaux supportent de la TVA et que votre société la récupère, il faut quand même la payer d'abord, et attendre plusieurs mois sa restitution. Sur un local vendu 150 000 € HT avec TVA, ce sont 30 000 € à avancer à l'acte. Certaines banques financent ce décalage par un prêt court, distinct du prêt principal, remboursé en une fois quand l'État restitue la TVA. C'est un produit à demander dès le premier rendez-vous (chapitre 10) : toutes les banques ne le proposent pas, et sa durée, son taux et sa garantie se négocient. Côté État, le crédit de TVA qui apparaît sur votre déclaration se reporte par défaut sur les suivantes ; son remboursement se demande, par le formulaire n° 3519 joint à la déclaration : à partir de 760 € pour une demande mensuelle ou trimestrielle, de 150 € pour la demande annuelle (impots.gouv.fr, à vérifier selon votre régime de TVA). L'administration peut demander l'acte et les factures avant de payer : tenez-les prêts, et prévoyez une durée de relais plus longue que le délai espéré.
 
 ### La CRL et les taxes locales
 
@@ -336,6 +348,8 @@ Le bail commercial est régi par les articles L145-1 et suivants du Code de comm
 Durée minimale de neuf ans (article L145-4). Le preneur peut résilier à la fin de chaque période de trois ans, avec six mois de préavis par lettre recommandée ou acte de commissaire de justice : d'où le « 3-6-9 ». Vous ne pouvez pas résilier en cours de bail, sauf clause résolutoire pour manquement du preneur, ou reprise pour construire ou exécuter des travaux prescrits, dans des conditions strictes. La faculté triennale ne peut être écartée que pour certains baux (plus de neuf ans, locaux monovalents, bureaux, entrepôts) ; pour un commerce en pied d'immeuble, elle est d'ordre public.
 
 À l'échéance, le bail se poursuit tacitement sans congé ni demande de renouvellement ; prolongé au-delà de douze ans, il perd le plafonnement du loyer. Mettez un rappel à huit ans et demi.
+
+**Vu du banquier de votre preneur.** Le jour où le preneur veut vendre son fonds, la banque de l'acheteur regarde la durée de bail qui reste. Un bail proche de son terme rend le fonds difficile à financer, donc difficile à céder : l'acheteur ne sait pas à quelles conditions il sera renouvelé. Si votre preneur vous demande un renouvellement anticipé avant de vendre, étudiez-le plutôt que de le refuser par principe. Un bail renouvelé repart pour neuf ans (article L145-12 du Code de commerce), la cession se fait, et votre loyer continue avec un exploitant qui vient d'investir. C'est aussi l'occasion de relire avec votre conseil le loyer, les garanties et l'inventaire des charges.
 
 ### Le loyer et l'indexation
 
@@ -422,9 +436,10 @@ Trois délais font déraper ce calendrier : la purge des préemptions (deux mois
 
 ## Pour aller plus loin
 
-- Statut des baux commerciaux : articles L145-1 à L145-60 et R145-35 du Code de commerce, sur legifrance.gouv.fr (durée L145-4, bail dérogatoire L145-5, indemnité d'éviction L145-14, plafonnement L145-34, révision L145-38, charges L145-40-2, droit de préférence du locataire L145-46-1).
+- Statut des baux commerciaux : articles L145-1 à L145-60 et R145-35 du Code de commerce, sur legifrance.gouv.fr (durée L145-4, bail dérogatoire L145-5, durée du bail renouvelé L145-12, indemnité d'éviction L145-14, plafonnement L145-34, révision L145-38, charges L145-40-2, droit de préférence du locataire L145-46-1).
 - Grosses réparations : article 606 du Code civil ; réparations locatives : article 1754 du Code civil.
 - Bail professionnel : article 57 A de la loi n° 86-1290 du 23 décembre 1986.
 - Droit de préemption commercial : articles L214-1 à L214-3 du Code de l'urbanisme ; droit de préemption urbain : article L211-1 ; certificat d'urbanisme : article L410-1 ; destinations : articles R151-27 et R151-28.
 - TVA sur les loyers de locaux nus : articles 260, 2° et 261 D du Code général des impôts ; BOFiP, série TVA-CHAMP-50-10. Contribution sur les revenus locatifs : article 234 nonies du CGI ; BOFiP, série RFPI-CTRL.
+- Remboursement d'un crédit de TVA (seuils, formulaire n° 3519, dates de dépôt) : impots.gouv.fr, rubrique professionnels, question « À quelle date doit être déposée la demande de remboursement de crédit de TVA ? ».
 - Fiches pratiques sur le bail commercial et le bail professionnel : entreprendre.service-public.fr.

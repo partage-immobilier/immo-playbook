@@ -23,7 +23,7 @@ Dix questions. Les réponses sont en bas, ne trichez pas.
 4. Faux. L'amortissement ne peut pas créer de déficit (article 39 C du CGI), mais la fraction non déduite se reporte sans limite de durée.
 5. Pour les cessions depuis le 15 février 2025, les amortissements déduits sont retranchés du prix d'acquisition dans le calcul de la plus-value (article 150 VB), sauf résidences services. Les abattements pour durée de détention s'appliquent ensuite.
 6. Au-delà de la tolérance de 10 % de recettes commerciales, la SCI passe à l'IS de plein droit (article 206-2 du CGI), avec les conséquences d'un changement de régime.
-7. 100 − 15 d'IS = 85 ; 85 × 70 % après flat tax = 59,50 €. Imposition globale de 40,5 %.
+7. 100 − 15 d'IS = 85 ; 85 × 68,6 % après flat tax de 31,4 % = 58,31 €. Imposition globale de 41,7 %.
 8. La fin de l'amortissement des travaux (sur dix ans) : le résultat fiscal bondit à l'année 11 alors que la trésorerie ne change pas, et l'IS apparaît dès que le déficit reporté est épuisé.
 9. Nue-propriété à 58 ans : 50 % (article 669), soit 450 000 €, 225 000 € par enfant, moins 100 000 € d'abattement = 125 000 € taxables (environ 23 200 € de droits chacun).
 10. Dix ans pour une activité occulte (article L. 169 du LPF) et une majoration de 80 % (article 1729 du CGI), plus l'intérêt de retard de 0,20 % par mois.

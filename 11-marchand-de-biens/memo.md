@@ -5,7 +5,7 @@
 **Ma structure** : SAS ou SARL à l'IS, jamais SCI (activité commerciale, IS d'office, responsabilité indéfinie). Capital 10 à 30 k€ + compte courant bloqué = fonds propres que la banque regarde. Comptabilité d'engagement, expert-comptable qui connaît la TVA immobilière.
 
 **Ma fiscalité (à vérifier à chaque opération)**
-- IS 15 % jusqu'à 42 500 € de bénéfice, 25 % au-delà ; dividendes 30 %
+- IS 15 % jusqu'à 42 500 € de bénéfice, 25 % au-delà ; dividendes 31,4 %
 - Ancien > 5 ans revendu sans option : exonéré de TVA, donc TVA sur travaux non récupérable (art. 261, 5, 2° CGI) ; TVA sur marge sur option si le vendeur n'avait pas récupéré la TVA (art. 268)
 - Neuf ou rendu à l'état neuf : TVA 20 % sur le prix total (art. 257, I, 2, 2° CGI) ; critères : majorité des fondations, de la structure ou des façades, ou deux tiers de chacun des six postes de second œuvre
 - Travaux : 10 % amélioration et 5,5 % énergie dans un logement > 2 ans, sauf remise à neuf ou +10 % de surface (à vérifier pour un MdB) ; pas de MaPrimeRénov'

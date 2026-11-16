@@ -58,7 +58,7 @@ L'activité de marchand de biens est commerciale. Elle s'exerce donc dans une so
 | Nature | Commerciale | Commerciale | Civile |
 | Impôt | IS de plein droit | IS (IR possible 5 ans, inutile ici) | IR par défaut ; l'activité commerciale la fait basculer à l'IS d'office (art. 206-2 CGI) |
 | Dirigeant | Président, assimilé salarié : cotisations d'environ 75 à 80 % du net versé, protection sociale du régime général | Gérant majoritaire, travailleur non salarié : cotisations d'environ 45 % du net, protection moindre | Gérant |
-| Dividendes | Flat tax 30 % | Flat tax 30 %, et cotisations sociales sur la part qui dépasse 10 % du capital et du compte courant pour le gérant majoritaire | Sans objet |
+| Dividendes | Flat tax 31,4 % (depuis 2026) | Flat tax 31,4 %, et cotisations sociales sur la part qui dépasse 10 % du capital et du compte courant pour le gérant majoritaire | Sans objet |
 | Responsabilité des associés | Limitée aux apports | Limitée aux apports | Indéfinie, proportionnelle aux parts (art. 1857 C. civ.) |
 | Cession de titres | Droits de 0,1 % | 3 % après abattement | 5 % |
 | Souplesse des statuts | Grande | Encadrée par la loi | Grande |
@@ -68,6 +68,8 @@ Pourquoi jamais une SCI : son objet est civil, la gestion d'un patrimoine. Dès 
 La micro-entreprise est exclue : le régime micro-BIC ne s'applique pas aux opérations de l'article 35 du CGI (article 50-0 du CGI), et l'entrepreneur individuel engage son patrimoine.
 
 En pratique, la SAS (ou la SASU si vous êtes seul) l'emporte pour sa souplesse, la limitation de responsabilité et la fiscalité des cessions. La SARL garde l'avantage de cotisations sociales plus faibles si vous comptez vous verser une rémunération régulière.
+
+**Une société par opération ?** L'idée séduit : chaque opération dans sa société, et un échec n'emporte pas le reste. Mais une société neuve n'a ni bilan ni historique. Devant la banque, vous repartez de zéro à chaque dossier, alors qu'une société qui a bouclé deux opérations présente des comptes, une marge réalisée et des fonds propres reconstitués. S'y ajoutent, à chaque fois, des frais de création, une comptabilité et une clôture. La société dédiée ne se justifie que pour isoler une opération lourde et risquée, ou menée avec d'autres associés. Et même alors, la banque demande le plus souvent la caution personnelle du dirigeant (chapitre 5) : l'isolement n'est jamais complet.
 
 ### Capital, compte courant, rémunération
 
@@ -111,6 +113,10 @@ La TVA immobilière a été réformée par la loi du 9 mars 2010. Depuis, la rè
 Le cas courant du marchand de biens est le premier : vous achetez un logement ancien à un particulier, vous le rénovez, vous le revendez exonéré de TVA. Conséquence directe : vous ne récupérez pas la TVA sur vos travaux, puisque votre vente n'y est pas soumise. La TVA sur les travaux est un coût, qu'il faut mettre dans le chiffrage toutes taxes comprises.
 
 L'option pour la TVA sur la marge (deuxième cas) a un intérêt limité quand l'acheteur est un particulier : il paie la TVA dans le prix et ne la récupère pas. Elle devient utile quand l'acheteur est lui-même assujetti, ou quand vos travaux portent beaucoup de TVA déductible. À calculer avec le comptable, opération par opération.
+
+**Quand les conseils divergent : le rescrit.** La TVA sur la marge est le sujet sur lequel notaire, comptable et avocat se contredisent le plus, surtout pour un terrain à bâtir détaché d'une propriété bâtie. La doctrine en vigueur (BOFiP, BOI-TVA-IMM-10-20-10, version du 13 mai 2020) pose deux conditions à l'article 268 du CGI : une acquisition qui n'a pas ouvert droit à déduction, et un bien revendu sous la même qualification juridique qu'à l'achat. Un terrain à bâtir doit avoir été acheté comme terrain ; un terrain acheté bâti puis démoli par le revendeur est taxé sur le prix total (Conseil d'État, 27 mars 2020, n° 428234, repris par le BOFiP). La Cour de justice de l'Union européenne s'est prononcée depuis sur ce régime (30 septembre 2021, affaire C-299/20), et les praticiens n'en tirent pas tous les mêmes conséquences. L'écart n'est pas un détail : sur un terrain acheté 100 000 € et revendu 180 000 € TTC, la TVA est d'environ 13 300 € sur la marge et de 30 000 € sur le prix total.
+
+Quand l'enjeu est de cet ordre et que vos conseils ne sont pas d'accord, ne tranchez pas vous-même : interrogez l'administration avant l'acte. C'est le rescrit de l'article L80 B, 1° du Livre des procédures fiscales : une demande écrite, précise et complète, présentée de bonne foi, sur laquelle l'administration se prononce dans un délai de trois mois. Sa réponse l'engage tant que la situation réelle est celle que vous avez décrite. Déposez la demande dès le compromis, comptez le délai dans vos conditions suspensives, et faites annexer la réponse à l'acte. Pour ce rescrit général, le silence ne vaut pas accord : sans réponse écrite, chiffrez l'opération avec l'hypothèse la plus défavorable.
 
 ### La requalification en neuf
 
@@ -346,7 +352,8 @@ Sarah divise une maison de 160 m² achetée 180 000 € en trois lots de 50, 55 
 ## Pour aller plus loin
 
 - Définition fiscale du marchand de biens : article 35, I, 1° du Code général des impôts ; BOFiP, série BIC-CHAMP-20-10-10 (profits de construction et opérations immobilières).
-- TVA immobilière : articles 257, 261, 268 et 278-0 bis A, 279-0 bis du CGI ; article 245 A de l'annexe II au CGI (immeubles rendus à l'état neuf) ; BOFiP, séries TVA-IMM-10-10-10-20 et TVA-LIQ-30-20-90.
+- TVA immobilière : articles 257, 261, 268 et 278-0 bis A, 279-0 bis du CGI ; article 245 A de l'annexe II au CGI (immeubles rendus à l'état neuf) ; BOFiP, séries TVA-IMM-10-10-10-20 et TVA-LIQ-30-20-90 ; TVA sur la marge : BOFiP, BOI-TVA-IMM-10-20-10.
+- Rescrit : article L80 B, 1° du Livre des procédures fiscales, sur legifrance.gouv.fr ; page « Le rescrit fiscal » sur impots.gouv.fr (rubrique professionnels).
 - Engagement de revendre : article 1115 du CGI ; engagement de construire : article 1594-0 G ; BOFiP, série ENR-DMTOI-10-50.
 - Assurances et garanties : articles L241-1 et L242-1 du Code des assurances ; articles 1641 à 1649 et 1792 à 1792-6 du Code civil.
 - Vente à la découpe : articles 10 et 10-1 de la loi n° 75-1351 du 31 décembre 1975 ; loi n° 2006-685 du 13 juin 2006 ; articles L111-6-1, L111-6-1-1, L262-1 et L731-4 du Code de la construction et de l'habitation ; article L211-4 du Code de l'urbanisme.

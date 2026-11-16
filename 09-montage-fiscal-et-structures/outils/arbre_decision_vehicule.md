@@ -12,7 +12,7 @@ Ce guide vous fait choisir, en sept questions, le véhicule d'achat adapté à v
 - [ ] Si non (achat à plusieurs : concubins, pacsés, fratrie, amis, parents et enfants) : passez à la question 5.
 
 ## Question 2 : Avez-vous besoin des loyers pour vivre ou compléter vos revenus dans les dix prochaines années ?
-*Un véhicule à l'IS impose 30 % de plus sur tout euro qui sort de la société. Si vous vivez des loyers, l'IS est exclu.*
+*Un véhicule à l'IS impose 31,4 % de plus (flat tax 2026) sur tout euro qui sort de la société. Si vous vivez des loyers, l'IS est exclu.*
 
 - [ ] Si oui : passez à la question 3.
 - [ ] Si non (vous voulez accumuler et réinvestir sans toucher aux loyers) : passez à la question 4.

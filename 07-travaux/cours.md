@@ -123,6 +123,18 @@ Attention à l'unité : la peinture se compte en m² de surface peinte (murs plu
 
 **Idée reçue.** « Je ferai moi-même, ça coûte moitié moins. » Le matériau représente 30 à 50 % d'un devis. Faire soi-même la peinture et les sols est raisonnable si vous avez le temps. Faire soi-même l'électricité ou la plomberie, c'est sans décennale, sans assurance en cas de sinistre chez le voisin, et avec un Consuel qui ne passera peut-être pas.
 
+### 2.4 Sur un gros chantier : le descriptif unique et le maître d'œuvre
+
+Dès que le chantier réunit quatre ou cinq corps d'état, la page du chapitre 1 ne suffit plus. Les professionnels travaillent avec un descriptif technique commun, le cahier des clauses techniques particulières (CCTP) : lot par lot, il fixe les prestations, les matériaux et les quantités. Toutes les entreprises répondent sur le même document, ligne par ligne. Les devis deviennent comparables, et un écart de prix vient alors du prix, plus d'un oubli.
+
+Ce descriptif est le premier travail d'un maître d'œuvre, qu'il soit architecte ou maître d'œuvre indépendant. L'un comme l'autre peut rédiger le descriptif, consulter les entreprises et suivre le chantier, et ses honoraires se négocient. Une seule différence de droit : quand le projet exige un permis de construire avec architecte (chapitre 7.3), c'est un architecte qui établit le projet architectural. Dans les deux cas, demandez l'attestation d'assurance décennale, comme pour un artisan.
+
+Le critère de choix qui compte le plus est la proximité. Un maître d'œuvre installé à vingt minutes a ses entreprises habituelles, qui tiennent à retravailler avec lui, et il passe sur le chantier sans en faire une expédition. Celui qui vient de loin passe moins, et découvre vos artisans en même temps que vous.
+
+Alternative légère pour un chantier moyen : payer quelques heures à un professionnel du bâtiment (maître d'œuvre, économiste de la construction, conducteur de travaux) pour relire vos devis avant signature. Il repère les postes oubliés, les quantités incohérentes et les doublons entre lots.
+
+**Exemple.** Mehdi rénove un petit immeuble de quatre logements. Sans descriptif, ses trois devis de plomberie vont de 18 000 à 31 000 € et ne chiffrent pas les mêmes prestations. Il fait rédiger un descriptif par lot, relance la consultation : les trois offres tiennent dans une fourchette de 12 %, et il sait enfin ce qu'il compare.
+
 ## 3. Choisir les artisans : assurances, références, acompte, planning
 
 Un bon artisan coûte plus cher à l'heure et moins cher au total. Le choix se fait sur cinq vérifications, avant le premier acompte.
@@ -140,6 +152,15 @@ Un bon artisan coûte plus cher à l'heure et moins cher au total. Le choix se f
 Demandez ces documents par écrit : un artisan sérieux les envoie dans la journée. Beaucoup d'attestations sont annuelles : un chantier qui démarre en février avec une attestation expirée le 31 décembre n'est pas couvert.
 
 **Piège classique.** L'attestation décennale est au nom d'une autre société que celle qui facture. Le nom sur le Kbis, l'attestation, le devis et la facture doit être le même, et chaque sous-traitant doit avoir sa propre décennale.
+
+**Une vérification de plus sur un gros lot : la santé financière.** Une entreprise assurée peut quand même cesser son activité au milieu de votre chantier. Deux lectures, dix minutes chacune :
+
+- **Les bilans.** Quand la société publie ses comptes, les deux ou trois derniers exercices se consultent gratuitement (annuaire-entreprises.data.gouv.fr pour le chiffre d'affaires et le résultat, data.inpi.fr pour les comptes déposés). Regardez trois lignes : un chiffre d'affaires stable ou en hausse, un résultat positif, des capitaux propres positifs. L'exercice est peu parlant pour une entreprise individuelle, qui ne dépose pas de comptes, et impossible pour une petite société qui a demandé la confidentialité des siens : demandez-les alors à l'artisan.
+- **Les inscriptions de privilèges.** Le greffe du tribunal de commerce délivre un « état d'endettement », qui liste les privilèges et nantissements inscrits sur l'entreprise. Il se commande sur infogreffe.fr avec le numéro SIREN, et il est payant. Le portail suretesmobilieres.fr, tenu par les greffiers, permet de consulter gratuitement le registre des sûretés mobilières. Plusieurs inscriptions importantes du Trésor ou d'une caisse sociale désignent une entreprise qui ne paie plus ses impôts ou ses cotisations, donc qui peut abandonner le chantier.
+
+Limite à connaître : un état vierge ne prouve rien. Le Trésor n'inscrit son privilège qu'au-delà d'un seuil élevé de dettes fiscales (200 000 € depuis 2019, article 1929 quater du CGI, à vérifier), et les Urssaf n'inscrivent plus le leur depuis le 1er juillet 2026 (loi de financement de la sécurité sociale pour 2026) : seules des inscriptions antérieures peuvent encore apparaître.
+
+**Exemple.** Avant de confier 45 000 € de gros œuvre à une SARL, Camille lit ses comptes : capitaux propres négatifs depuis deux exercices. Elle ne l'écarte pas d'office. Elle en parle au gérant, ramène l'acompte à 10 % et paie le reste à l'avancement constaté.
 
 ### 3.2 L'acompte et les paiements
 
@@ -186,6 +207,12 @@ Le poste le plus cher par mètre carré, parce qu'il concentre matériaux, main-
 - **La production d'eau chaude.** Un chauffe-eau électrique dure dix à quinze ans. S'il a plus de douze ans, remplacez-le pendant le chantier (600 à 1 200 €) plutôt qu'en urgence un dimanche de janvier.
 - **La salle de bain.** Une douche plutôt qu'une baignoire pour un meublé ou une colocation : moins chère, plus facile à entretenir, demandée. Comptez 4 000 à 8 000 € par pièce d'eau complète, meuble vasque et faïence compris.
 
+**Concevoir pour gérer moins.** Trois décisions prises sur plan vous épargnent des années d'interventions :
+
+- **Une vanne d'arrêt par logement, accessible depuis les parties communes** (palier, gaine technique, cave). Vous coupez l'eau d'un logement en cas de fuite sans attendre le retour du locataire et sans entrer chez lui, ce que vous n'avez pas le droit de faire sans son accord.
+- **Cuisine et salle d'eau adossées.** Les deux pièces partagent la même cloison technique : une seule descente, des évacuations courtes, moins de raccords, donc moins de fuites et un devis plus bas. Dans un immeuble, superposez aussi les pièces d'eau d'un étage à l'autre.
+- **Garde-t-on le gaz ?** Dans un petit immeuble, posez la question avant les devis. Le garder, c'est une installation collective à faire contrôler et parfois remettre en conformité, un diagnostic gaz à fournir au bail dès que l'installation a plus de quinze ans (module 8), des chaudières à entretenir et un abonnement par logement. Le supprimer simplifie la gestion, mais déplace la question vers le DPE, qui ne traite pas le gaz et l'électricité de la même façon : remplacer une chaudière par des convecteurs peut dégrader l'étiquette, la remplacer par une pompe à chaleur peut l'améliorer. Faites chiffrer la remise en conformité et simuler le DPE dans les deux hypothèses (chapitre 4.3) avant de décider.
+
 **Exemple.** Inès rénove un T4 de 78 m² pour une colocation de trois chambres, avec une seule salle de bain. Deux options : conserver la baignoire et refaire le reste (4 200 €), ou créer une deuxième salle d'eau dans un ancien cellier (7 800 € de plomberie, plus 2 400 € d'électricité et de carrelage). Avec deux salles d'eau, chaque chambre se loue 480 € au lieu de 440 € : 120 € par mois de plus, 1 440 € par an. Le surcoût de 6 000 € est rentabilisé en un peu plus de quatre ans, et la colocation se loue sans vacance. Inès retient la deuxième option.
 
 ### 4.3 L'isolation
@@ -196,7 +223,7 @@ C'est le poste qui conditionne le DPE, donc le droit de louer après 2028 ou 203
 2. **Les murs ensuite.** L'isolation par l'intérieur (50 à 90 € par m² de mur) fait perdre 10 à 15 cm par mur, impose de reprendre réseaux et menuiseries, et laisse des ponts thermiques. L'isolation par l'extérieur (120 à 200 € par m²) est plus efficace mais demande une autorisation d'urbanisme et, en copropriété, un vote.
 3. **La ventilation en même temps.** Isoler sans ventiler produit des moisissures en six mois, et un locataire qui vous écrit. Une VMC hygroréglable (800 à 2 000 €) va avec toute isolation.
 
-**Idée reçue.** « Changer les fenêtres fait gagner deux classes au DPE. » Rarement : les fenêtres pèsent 10 à 15 % des pertes. Le DPE dépend d'abord de l'énergie de chauffage (les convecteurs électriques sont pénalisés par le coefficient d'énergie primaire de 2,3) et de l'enveloppe. Demandez au diagnostiqueur une simulation avant travaux : il modélise plusieurs scénarios pour 100 à 200 €.
+**Idée reçue.** « Changer les fenêtres fait gagner deux classes au DPE. » Rarement : les fenêtres pèsent 10 à 15 % des pertes. Le DPE dépend d'abord de l'énergie de chauffage (l'électricité est comptée avec un coefficient d'énergie primaire, abaissé de 2,3 à 1,9 pour les DPE établis depuis le 1er janvier 2026, ce qui pénalise moins les logements chauffés à l'électricité) et de l'enveloppe. Demandez au diagnostiqueur une simulation avant travaux : il modélise plusieurs scénarios pour 100 à 200 €.
 
 **Ce que je fais, moi.** J'ai appris à faire passer le diagnostiqueur deux fois : avant l'offre, pour savoir ce que coûte la sortie de la classe interdite et négocier avec, puis à la fin du chantier, pour le DPE définitif qui ira dans le bail et dans l'annonce. Entre les deux, je garde les factures de tout ce qui touche à l'énergie, parce que le diagnostiqueur peut s'appuyer sur des justificatifs pour les caractéristiques qu'il ne voit pas (épaisseur d'isolant posé derrière un doublage, par exemple). Sans facture, il prend la valeur par défaut, la plus défavorable.
 
@@ -301,7 +328,7 @@ Une division **officielle** crée des logements distincts : chacun a son numéro
 
 - **Le PLU** (plan local d'urbanisme) peut limiter la division : places de stationnement par logement créé (le blocage le plus fréquent en périurbain), surface minimale, densité. Lisez le règlement de la zone avant l'offre, et demandez un rendez-vous au service urbanisme.
 - **La déclaration préalable** suffit si la division se fait sans changement de destination, sans modification importante de façade et avec moins de 20 m² de surface de plancher créée (article R421-17 du Code de l'urbanisme). Instruction : un mois, deux en secteur protégé.
-- **Le permis de construire** est nécessaire si la division modifie la structure porteuse ou la façade avec changement de destination, ou crée plus de 20 m² (40 m² en zone urbaine couverte par un PLU ; article R421-14). Instruction : deux à trois mois, architecte obligatoire au-delà de 150 m² après travaux.
+- **Le permis de construire** est nécessaire si la division modifie la structure porteuse ou la façade avec changement de destination, ou crée plus de 20 m² (40 m² en zone urbaine couverte par un PLU ; article R421-14). Instruction : deux à trois mois. Le projet doit en principe être établi par un architecte (article L431-1). Une seule dispense : la personne physique qui construit ou modifie pour elle-même une construction dont la surface de plancher ne dépasse pas 150 m², seuil apprécié après travaux (articles L431-3 et R*431-2). Une personne morale n'en bénéficie pas : une SCI, même familiale, doit recourir à un architecte pour tout permis de construire, quelle que soit la surface. La déclaration préalable, elle, n'impose jamais d'architecte.
 - **Le permis de diviser** (article L111-6-1-1 du CCH, loi ALUR 2014) : dans les communes ou quartiers qui l'ont instauré, toute division créant des logements est soumise à autorisation préalable, refusable si les logements créés ne respectent pas la décence ou la sécurité. Demandez à la mairie.
 - **Les surfaces minimales.** Un logement décent fait au moins **9 m² avec 2,20 m sous plafond, ou 20 m³** (décret n° 2002-120 du 30 janvier 2002). Mais pour une division, l'article L111-6-1 du CCH va plus loin : il **interdit toute division créant des logements de moins de 14 m² et 33 m³**, ainsi que la division d'immeubles frappés d'un arrêté d'insalubrité ou de péril et, depuis la loi Climat de 2021, celle qui crée des logements F ou G (date d'application à vérifier). Retenez 14 m² et 33 m³ pour diviser, 9 m² pour la décence d'un logement existant.
 - **Le règlement sanitaire départemental** ajoute des règles locales : ouverture sur l'extérieur de chaque pièce principale, ventilation, éclairement, interdiction de certains logements en sous-sol. Consultable en mairie, il s'applique même sans PLU.
@@ -351,4 +378,6 @@ Fiscalement, la découpe faite par quelqu'un qui a acheté pour revendre est une
 - Articles 279-0 bis et 278-0 bis A du Code général des impôts (TVA à 10 % et 5,5 % sur les travaux dans les logements de plus de deux ans) ; BOFiP, série TVA-LIQ-30-20-90.
 - Article 31 du Code général des impôts (charges déductibles des revenus fonciers) ; BOFiP, série RFPI-BASE-20-30.
 - Articles L111-6-1 et L111-6-1-1 du Code de la construction et de l'habitation (interdictions de division, permis de diviser) et décret n° 2002-120 du 30 janvier 2002 (logement décent).
+- Recours à l'architecte : articles L431-1, L431-3 et R*431-2 du Code de l'urbanisme, sur legifrance.gouv.fr ; fiche « Dans quel cas doit-on recourir à un architecte ? » (F20568) sur service-public.gouv.fr.
+- Santé financière d'une entreprise : comptes publiés sur annuaire-entreprises.data.gouv.fr et data.inpi.fr ; état d'endettement sur infogreffe.fr ; registre des sûretés mobilières sur suretesmobilieres.fr ; publicité du privilège du Trésor : article 1929 quater du CGI et BOFiP, BOI-REC-GAR-10-10-30-10 ; privilège de la sécurité sociale : article L243-5 du Code de la sécurité sociale, modifié par la loi n° 2025-1403 du 30 décembre 2025.
 - Calendrier d'interdiction de location selon le DPE et aides à la rénovation : service-public.fr (rubrique logement) et maprimerenov.gouv.fr.

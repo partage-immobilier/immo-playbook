@@ -74,6 +74,8 @@ Ajoutez trois précisions que les notaires acceptent sans difficulté :
 - le délai de réalisation, 45 à 60 jours selon la saison, plutôt que les 30 jours des modèles d'agence (les banques mettent trois à six semaines pour éditer une offre) ;
 - la pièce qui prouve l'échec : une lettre de refus de la banque, ou l'absence d'offre dans le délai.
 
+**Quand le dossier est long à instruire.** Une SCI à constituer, un dossier traité par le guichet professionnel de la banque, plusieurs prêts à assembler : comptez large. Demandez 60 à 90 jours, et demandez-les dès l'offre d'achat, pas au moment de relire le projet. La loi ne fixe qu'un plancher, un mois à compter de la signature de l'acte (article L313-41) ; au-delà, tout se négocie, et le vendeur peut refuser. Expliquez-lui pourquoi, avec un calendrier : date de dépôt du dossier, date d'immatriculation de la société, date attendue de l'accord. Un délai long mais justifié passe mieux qu'une demande de prorogation à trois jours de l'échéance. Si c'est une société qui emprunte, ne comptez pas sur la protection légale, pensée pour l'emprunteur particulier (point à faire confirmer par votre notaire) : la condition doit être écrite en entier dans le compromis.
+
 De son côté, le vendeur a le droit d'exiger que vous justifiiez du dépôt d'un dossier complet dans les deux ou trois semaines suivant la signature. C'est une demande raisonnable. Acceptez-la, elle vous oblige à être efficace.
 
 **Exemple.** Mehdi achète un T3 à 180 000 €. Frais de notaire 14 500 €, travaux 20 000 €. Il veut tout emprunter. Sa condition de prêt : « un ou plusieurs prêts d'un montant maximal de 215 000 €, d'une durée maximale de 25 ans, au taux nominal maximal de 4 % hors assurance, auprès d'au plus deux établissements, dans un délai de 60 jours ». Sa banque lui propose 215 000 € à 3,6 % sur 25 ans : la condition est réalisée, il achète. Si sa banque refuse et qu'il produit la lettre de refus avant le 60e jour, le compromis tombe et il récupère son séquestre. S'il avait demandé 240 000 € pour financer aussi les meubles, le refus ne l'aurait pas protégé : il a demandé un prêt différent de celui du compromis.
@@ -81,6 +83,8 @@ De son côté, le vendeur a le droit d'exiger que vous justifiiez du dépôt d'u
 ### 2.2 Les conditions d'urbanisme
 
 Le notaire demande toujours un certificat d'urbanisme d'information (article L410-1 du Code de l'urbanisme) et purge le droit de préemption de la commune : la mairie a deux mois pour décider d'acheter à votre place au même prix. Ces deux démarches sont systématiques. Ce que vous ajoutez dépend de votre projet.
+
+**Demandez la date d'envoi de la déclaration d'intention d'aliéner.** Les deux mois de la mairie ne partent pas du compromis. Ils courent à compter de la réception en mairie de la déclaration d'intention d'aliéner (DIA) que le notaire lui adresse ; passé ce délai, le silence vaut renonciation (article L213-2 du Code de l'urbanisme). Le délai est suspendu si la mairie demande des documents ou une visite du bien. Une DIA envoyée trois semaines après le compromis décale donc l'acte de trois semaines, quoi que dise votre banque. Posez deux questions au notaire le jour de la signature : quand part la DIA, et quand a-t-elle été reçue ? Exemple : compromis signé le 3 mars, DIA reçue en mairie le 26 mars : la purge tombe le 26 mai, pas début mai.
 
 - Vous voulez diviser, agrandir, changer la destination (un local en logement, par exemple) : condition suspensive d'obtention de l'autorisation (déclaration préalable ou permis), purgée du recours des tiers (deux mois d'affichage) et du retrait administratif (trois mois). Comptez quatre à six mois : le vendeur n'acceptera pas toujours, et pourra demander une indemnité d'immobilisation en échange.
 - Vous achetez en copropriété avec des travaux touchant aux parties communes ou à la destination des lots : condition d'obtention du vote de l'assemblée générale. Le délai de contestation des copropriétaires est de deux mois après la notification du procès-verbal.
@@ -210,6 +214,14 @@ Comment le choisir :
 | Taille de l'étude | Une étude de taille moyenne : assez de clercs pour aller vite, pas trop pour que vous ayez un interlocuteur fixe | Demandez qui suivra votre dossier au quotidien |
 | Honoraires | Le tarif est réglementé ; seule une remise sur la part d'émoluments au-delà de 100 000 € est possible (jusqu'à 20 % depuis 2021, à vérifier) | Ne cherchez pas le moins cher, il n'existe pas |
 
+Ce que vous lui demandez, et ce que vous ne lui demandez pas :
+
+- **Son réseau.** Un notaire installé connaît un géomètre-expert, un diagnostiqueur, un avocat en droit immobilier. Demandez-lui des noms : c'est souvent le moyen le plus rapide de trouver un professionnel sérieux dans une ville où vous ne connaissez personne.
+- **Sa clientèle.** A-t-il des clients investisseurs, des SCI, des divisions ? Un notaire qui en voit toute l'année ne découvre pas la clause de substitution avec vous.
+- **Pas la rédaction de votre offre d'achat.** C'est votre document (modèle au module 3). Il peut vous dire ce qu'il mettrait au compromis ; il ne négocie pas à votre place.
+- **Pas la conduite d'un litige.** Le notaire rédige et authentifie des actes, il ne plaide pas. Un vendeur qui se dérobe, un vice découvert après l'acte, un locataire à assigner : c'est le travail d'un avocat.
+- **Des demandes groupées, dans son périmètre.** Un courriel avec cinq questions précises sur l'acte vaut mieux que cinq appels. Une étude qui reçoit des demandes claires répond vite ; celle qu'on sollicite pour tout finit par répondre tard.
+
 **Ce que je fais, moi.** J'ai un notaire attitré depuis plusieurs années, dans une étude de province, qui connaît mes sociétés et mes montages. Je l'impose sur chaque compromis, même quand le vendeur a le sien à l'autre bout de la France. Avant de faire une offre, je lui envoie l'annonce, le titre si je l'ai et un résumé de mon projet en cinq lignes, et il me dit ce qu'il mettrait dans les conditions. Ça m'a évité au moins deux achats où une servitude ou une règle d'urbanisme aurait tué le projet. Et le jour où un vendeur a voulu se dérober, c'est lui qui a dressé le procès-verbal de carence en quarante-huit heures.
 
 ## 7. Les pièces du dossier et le planning jusqu'à l'acte
@@ -265,6 +277,14 @@ Ce planning suppose un dossier de prêt déposé dans les jours qui suivent le c
 
 **Ce que je fais, moi.** Mon dossier bancaire est prêt avant le compromis : les pièces du module 5 sont dans un seul fichier, à jour, et il ne manque que le compromis signé. Je l'envoie à la banque le lendemain de la signature, avec le planning et la date de l'acte. Le conseiller sait exactement quand je l'attends. Quand j'ai commencé, j'attendais la fin du délai de rétractation pour « ne pas travailler pour rien ». Je perdais deux semaines à chaque opération, et une fois le bien, parce que le vendeur a pu invoquer la date extinctive.
 
+### 7.4 Relire le projet avec l'offre acceptée à côté
+
+Le projet de compromis arrive quelques jours avant la signature. Posez-le à côté de votre offre acceptée et comparez ligne à ligne : prix et honoraires, montant du séquestre, clause pénale, texte et délai de chaque condition suspensive, dates, clause de substitution. Le rédacteur part souvent d'un modèle de l'étude, et le modèle ne connaît pas votre offre. Tout écart se signale par écrit avant le rendez-vous, pas autour de la table.
+
+**Exemple.** Thomas a fait accepter une offre à 300 000 € avec un dépôt de garantie de 10 000 €. Le projet reçu mentionne 30 000 €, soit les 10 % du modèle. Il renvoie le projet avec son offre en pièce jointe ; le notaire corrige dans la journée. S'il n'avait pas relu, il immobilisait 20 000 € de plus pendant trois mois, pris sur son budget de travaux.
+
+L'écart n'est pas neutre non plus en cas de défaillance. Le séquestre est une somme déjà consignée chez le notaire : elle garantit le paiement de la clause pénale, et le notaire la remet au vendeur sur accord des deux parties ou sur décision de justice (chapitre 4). Le reste de la pénalité, lui, n'est consigné nulle part : le vendeur doit le réclamer à l'acheteur, devant le juge s'il le faut. Avec 10 000 € de séquestre et une clause pénale de 30 000 €, il reste 20 000 € à aller chercher ; avec 30 000 € de séquestre, tout est déjà chez le notaire. C'est pour cela que le vendeur pousse le séquestre vers le haut, et que son montant se négocie à l'offre.
+
 ## Les pièges et idées reçues du module
 
 1. **Signer le compromis à l'agence pour aller plus vite.** Le modèle d'agence protège l'agence. Les deux semaines gagnées coûtent une condition suspensive mal rédigée.
@@ -281,6 +301,7 @@ Ce planning suppose un dossier de prêt déposé dans les jours qui suivent le c
 - Code de la construction et de l'habitation, articles L271-1 (délai de rétractation) et L271-2 (versements interdits avant la fin du délai), sur legifrance.gouv.fr.
 - Code de la consommation, articles L313-40 à L313-42 (condition suspensive d'obtention du prêt).
 - Code civil, articles 1124 (promesse unilatérale), 1589 et 1589-2 (promesse de vente et enregistrement), 1231-5 (clause pénale), 1304 à 1304-7 (conditions suspensives).
-- Code de l'urbanisme, article L213-2 (droit de préemption urbain, délai de deux mois).
+- Code de l'urbanisme, article L213-2 (droit de préemption urbain : délai de deux mois à compter de la réception de la déclaration d'intention d'aliéner, cas de suspension).
+- Sort du dépôt de garantie quand la vente ne se fait pas : article « Compromis de vente : sort du dépôt de garantie en cas de non-réalisation de la vente » sur notaires.fr.
 - Fiches « Compromis de vente » et « Promesse de vente » sur service-public.fr ; dossier « Avant-contrat » sur notaires.fr.
 - ANIL (anil.org) : fiches sur les diagnostics obligatoires et leur durée de validité.

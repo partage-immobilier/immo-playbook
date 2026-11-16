@@ -217,7 +217,23 @@ Un syndic connaît les copropriétaires qui ne paient plus leurs charges, ceux q
 
 Dans un quartier que vous ciblez, le boulanger, le gardien d'immeuble, le buraliste savent qui part, qui est décédé, qui a mis en vente. Ce n'est pas un réseau au sens formel, c'est de la présence : passer régulièrement, discuter, dire ce qu'on cherche.
 
-### 3.6 Exemple : Sarah et son premier agent
+### 3.6 Le chasseur immobilier
+
+Un chasseur immobilier cherche pour vous, côté acheteur : il trie, visite, et vous présente deux ou trois biens au lieu de cinquante annonces. C'est utile quand vous achetez loin de chez vous, dans une ville où vous n'avez ni le temps ni le réseau.
+
+Ce n'est pas un métier libre. La recherche de biens pour le compte d'autrui entre dans la loi Hoguet (loi n° 70-9 du 2 janvier 1970, article 1er), comme l'activité d'agent immobilier. Trois conséquences :
+
+- **Une carte professionnelle** « transactions sur immeubles et fonds de commerce », délivrée par la chambre de commerce et d'industrie, qui suppose notamment une assurance de responsabilité civile professionnelle (article 3). Un collaborateur peut travailler sans carte à son nom s'il est habilité par un titulaire (article 4).
+- **Un mandat de recherche écrit**, signé avant toute démarche, qui fixe la mission et la rémunération (article 6).
+- **Aucune somme avant la conclusion de l'opération** (article 6) : pas de « frais de dossier » ni d'acompte à la signature du mandat.
+
+Avant de signer, demandez le numéro de carte (il se vérifie gratuitement sur le fichier public des chambres de commerce, professionnels-immobilier.cci.fr), l'attestation d'assurance de l'année, et lisez le mandat : durée, exclusivité, périmètre, honoraires. Exercer sans carte est un délit (article 14 : jusqu'à six mois d'emprisonnement et 7 500 € d'amende), et un intermédiaire sans carte ou sans mandat écrit s'expose à voir le juge lui refuser toute rémunération. Surtout, il n'a pas d'assurance : s'il se trompe, vous n'avez personne en face.
+
+Côté prix, l'usage tourne autour de 2 à 3 % du prix d'achat, ou un forfait de quelques milliers d'euros, payés par l'acheteur le jour de l'acte. Ce n'est pas un tarif réglementé : comparez, et intégrez ces honoraires à votre coût total (module 2), ils pèsent sur le rendement comme des travaux. Leur financement par le prêt n'a rien d'automatique : cela dépend de la banque, posez la question dès le premier rendez-vous et présentez la facture prévue dans votre plan de financement.
+
+**Exemple.** Nadia vit à Lille et vise un T2 à Limoges, à 105 000 €, loyer prudent 650 €. Le chasseur demande 3 000 € au succès. Elle vérifie sa carte et son attestation d'assurance, signe un mandat de trois mois, et ajoute 3 000 € à son coût total : son rendement brut passe de 7,4 % à 7,2 %. Elle estime que cela vaut moins cher que six allers-retours en train.
+
+### 3.7 Exemple : Sarah et son premier agent
 
 Sarah vise des T2 à rénover dans une ville moyenne. Elle passe dans quatre agences un samedi matin. Dans trois, elle est reçue poliment et oubliée. Dans la quatrième, l'agent lui demande son budget et son financement ; elle sort son accord de principe à 160 000 € et une page avec ses critères. Trois semaines plus tard, il l'appelle pour un T2 de 48 m² en succession, pas encore en ligne, à 98 000 €. Elle visite le lendemain, fait une offre à 90 000 € le surlendemain avec une condition suspensive de prêt, acceptée sous huit jours. Ce bien n'a jamais été publié. Ce n'est pas de la chance, c'est trois semaines de travail et une page de critères.
 
@@ -387,5 +403,6 @@ Inès a 41 lignes. 29 écartées en cinq minutes, 8 appels, 3 visites, 1 offre r
 - Observatoires locaux des loyers : observatoires-des-loyers.org, et les fiches de l'ANIL (anil.org) sur les loyers et l'encadrement.
 - Liste des communes en zone tendue et taxe sur les logements vacants : service-public.fr, rubrique logement.
 - Mentions obligatoires d'une annonce immobilière : article L. 721-1 du Code de la construction et de l'habitation (copropriété) et arrêté du 10 janvier 2017 relatif à l'information des consommateurs par les professionnels de l'immobilier (honoraires).
+- Chasseurs et agents immobiliers : loi n° 70-9 du 2 janvier 1970 (loi Hoguet), articles 1er (activités visées, dont la recherche), 3 (carte professionnelle, assurance), 4 (habilitation), 6 (mandat écrit, aucune somme avant la conclusion) et 14 (sanctions), sur legifrance.gouv.fr ; vérification d'une carte professionnelle sur professionnels-immobilier.cci.fr.
 - Surface Carrez : article 46 de la loi n° 65-557 du 10 juillet 1965 ; surface habitable : article R. 156-1 du Code de la construction et de l'habitation.
 - Ventes aux enchères judiciaires : Code des procédures civiles d'exécution, articles L. 322-1 et suivants ; ventes domaniales sur encheres-domaine.gouv.fr.

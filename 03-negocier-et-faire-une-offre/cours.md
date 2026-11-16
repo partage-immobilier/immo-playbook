@@ -48,6 +48,20 @@ Camille a visité le T2 de 48 m² du module 2 (affiché 84 000 €, DPE F, trois
 
 Elle a cinq leviers documentables (travaux chiffrés, diagnostic électrique, DPE F, durée et baisse, double mandat), un levier qu'elle sait mais ne dira pas (la situation du vendeur), et un levier qu'elle vérifie sur DVF : les T2 à rénover du quartier se sont vendus entre 1 400 et 1 600 €/m² ces deux dernières années, soit 67 000 à 77 000 € pour 48 m².
 
+### 1.4 Cas particulier : le locataire en impayé, un levier qui se chiffre
+
+Vous découvrez avant de signer qu'un locataire ne paie plus (c'est tout l'intérêt de la preuve d'encaissement des loyers demandée au module 2). Cela ne tue pas l'opération : cela se chiffre, comme des travaux. Trois postes :
+
+- **Les loyers que vous ne toucherez pas**, sur la durée probable de la procédure : douze à vingt-quatre mois entre le premier impayé et la libération du logement (module 8, chapitre 7).
+- **Les frais** : commissaire de justice, avocat, de l'ordre de 2 000 à 3 000 € pour une procédure menée au bout (ordre de grandeur, à faire chiffrer).
+- **La remise en état** à la sortie, que vous estimez comme au module 2.
+
+**Exemple.** Thomas vise un T2 loué 620 € par mois. Son plafond, calculé pour un bien loué et payé, est de 90 000 €. Le compte rendu de gérance montre cinq mois de retard. Il retient dix-huit mois de procédure : 18 × 620 = 11 160 € de loyers manquants, 2 500 € de frais, 4 000 € de remise en état, soit 17 660 €. Son nouveau plafond : 90 000 − 17 660 = 72 340 €, arrondi à 72 000 €. Si le locataire régularise, il aura bien acheté ; sinon, il aura payé le juste prix.
+
+Deux règles de transparence. À la banque, vous présentez la situation telle qu'elle est : l'impayé, votre chiffrage et la trésorerie prévue pour tenir sans loyer ; un banquier qui le découvre seul ne vous suit plus. Au compromis, faites écrire l'état exact des loyers, le sort de la dette antérieure à la vente et celui de la procédure en cours (module 4).
+
+Et si le vendeur a affirmé que les loyers étaient à jour alors qu'il savait le contraire ? Le mensonge ou la dissimulation intentionnelle d'une information qu'on sait déterminante pour l'autre est un dol (Code civil, article 1137). Il permet de demander l'annulation de la vente (articles 1130 et 1131) et des dommages et intérêts. Encore faut-il le prouver : d'où l'intérêt d'une déclaration écrite du vendeur, datée et chiffrée, plutôt que d'un « tout va bien » à l'oral.
+
 ## 2. Combien proposer : le prix plafond calculé depuis le rendement cible
 
 ### 2.1 Le principe
@@ -244,7 +258,16 @@ Le vendeur propose un prix intermédiaire. Ce n'est pas un refus, c'est le débu
 
 C'est parfois vrai, parfois non, et vous ne pouvez pas le vérifier. La réponse est la même dans les deux cas : votre plafond ne change pas parce qu'un autre acheteur existe. Vous pouvez proposer votre prix cible (pas votre plafond) en « meilleure et dernière offre », avec une validité très courte, et dire clairement que vous n'irez pas au-delà. Si l'autre offre est réelle et plus haute, vous perdez un bien qui aurait dépassé votre plafond. Ce n'est pas une perte.
 
-### 6.5 Exemple : la négociation de Camille
+### 6.5 Calibrer l'offre quand la concurrence est réelle
+
+Sur un bien bien placé, plusieurs offres arrivent la même semaine, et le vendeur ne choisit pas seulement un prix : il choisit l'acheteur qui ira au bout. Sans toucher à votre plafond, vous pouvez renforcer deux signaux :
+
+- **Le dépôt de garantie annoncé.** Votre offre type n'en prévoit pas. Face à d'autres acheteurs, écrire « dépôt de garantie de 5 % versé chez le notaire à la signature du compromis » rassure. Il est annoncé dans l'offre, jamais versé avec elle (article 1589-1 du Code civil, chapitre 4).
+- **Des délais courts et tenus.** Compromis sous dix jours, dossier de prêt déposé sous quinze jours, acte dès que la banque et le notaire sont prêts. N'écrivez que des délais que vous tiendrez.
+
+Reste la tentation d'acheter « sans condition suspensive de prêt ». C'est l'argument le plus fort, et le plus dangereux. L'acheteur doit alors écrire de sa main, dans l'avant-contrat, qu'il sait qu'en recourant malgré tout à un prêt il perd la protection de la loi (Code de la consommation, article L. 313-42). Si la banque refuse ensuite, vous restez engagé, et la clause pénale du compromis s'applique (module 4). Ce choix est réservé à l'acheteur qui paie réellement sans prêt, avec les fonds sur son compte. Un accord de principe n'est pas un financement certain. Si vous empruntez, gardez la condition et dites-le : un dossier déjà monté et un délai court la rendent acceptable pour le vendeur.
+
+### 6.6 Exemple : la négociation de Camille
 
 Jour 1 : offre à 61 000 €. Jour 3 : l'agent rapporte un refus, « le vendeur ne descendra pas sous 78 000 € ». Jour 4 : Camille répond par écrit qu'elle comprend, que son offre repose sur 25 000 € de travaux et sur les ventes du quartier, et qu'elle reste valable. Elle continue ses visites. Jour 12 : l'agent rappelle, le vendeur « pourrait envisager 74 000 € ». Jour 13 : Camille a reçu le devis de l'électricien, à 5 200 € contre 4 800 € estimés, et le devis du plombier ; elle porte son offre à 64 000 €, en expliquant que les devis confirment son chiffrage, et demande que le vendeur fasse vider le logement avant l'acte. Jour 18 : contre-proposition à 70 000 €, logement vidé. Jour 19 : Camille fait son « dernier prix » à 68 000 €, valable cinq jours, et demande à l'agent une baisse de 1 000 € de ses honoraires pour conclure. Jour 22 : accord à 68 000 € frais d'agence inclus, honoraires réduits.
 
@@ -270,4 +293,7 @@ Résultat : 19 % sous le prix affiché, 1 000 € sous son plafond, 3 000 € au
 - Délai de rétractation de l'acquéreur non professionnel : article L. 271-1 du Code de la construction et de l'habitation.
 - Condition suspensive d'obtention du prêt dans l'avant-contrat : articles L. 313-40 à L. 313-42 du Code de la consommation.
 - Indivision et vente d'un bien indivis : articles 815-3 et 815-5-1 du Code civil.
+- Dol (mensonge ou dissimulation intentionnelle d'une information déterminante) : article 1137 du Code civil ; nullité pour vice du consentement : articles 1130 et 1131.
+- Renonciation à la condition suspensive de prêt (mention de la main de l'acquéreur) : article L. 313-42 du Code de la consommation.
+- Calendrier et textes de la procédure pour impayés : module 8, chapitre 7.
 - Fiches « offre d'achat » et « compromis de vente » sur service-public.fr et sur notaires.fr.

@@ -80,7 +80,7 @@ prow(28, "Plafond d'imputation du déficit foncier sur le revenu global", 10700,
 prow(29, "Taux réduit d'IS", 0.15, PCT, inp, "Art. 219 I b CGI")
 prow(30, "Seuil du taux réduit", 42500, EUR, inp)
 prow(31, "Taux normal d'IS", 0.25, PCT, inp)
-prow(32, "Flat tax sur dividendes (PFU)", 0.30, PCT, inp, "12,8 % IR + 17,2 % PS, art. 200 A CGI")
+prow(32, "Flat tax sur dividendes (PFU)", 0.314, PCT, inp, "12,8 % IR + 18,6 % PS depuis 2026, art. 200 A CGI")
 prow(33, "Expert-comptable LMNP (par an)", 600, EUR, inp)
 prow(34, "Expert-comptable SCI à l'IS (par an)", 1300, EUR, inp)
 prow(35, "CFE annuelle en meublé", 350, EUR, inp, "Base minimum communale ; due en meublé, pas en location nue d'habitation (art. 1447 CGI)")
@@ -324,7 +324,7 @@ r += 1
 R_BONI = r
 srow(r, "SCI : flat tax à la liquidation (boni distribué)", "", "",
      f"=$B$32*MAX(0,D{R_NET}+{f('s_cum', LAST)})",
-     "30 % sur tout ce qui dépasse les apports (deuxième étage d'imposition)")
+     "31,4 % sur tout ce qui dépasse les apports (deuxième étage d'imposition)")
 r += 1
 R_TOT = r
 srow(r, "Résultat total net sur 15 ans (trésorerie cumulée + revente nette)",
